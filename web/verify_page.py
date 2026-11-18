@@ -39,8 +39,27 @@ eq("CN5c vs X6885", compareVerdict(cn5c, x6885).v, "MATCH");
 eq("KM6 vs KM7", compareVerdict(km6, km7).v, "FAMILY");
 eq("search KM6 first", (searchModels("KM6")[0] || [])[2], "KM6");
 eq("DB rows > 2000", DB.length > 2000, true);
+// --- match lists (Milne wale models) ---
+const km6m = matchLists(km6);
+eq("KM6 match unknown=false", km6m.unknown, false);
+eq("KM6 match count > 0", km6m.match.length > 0, true);
+eq("KM6 match all MT6789H", km6m.match.every(function(r){ return r[4] === "MT6789H"; }), true);
+eq("KM6 match excludes self", km6m.match.indexOf(km6) === -1, true);
+eq("KM6 family has X6885", km6m.family.some(function(r){ return r[2] === "X6885"; }), true);
+eq("KM6 family has CN5c", km6m.family.some(function(r){ return r[2] === "CN5c"; }), true);
+eq("KM6 family all base 6789", km6m.family.every(function(r){ return mtBase(r[4]) === "6789"; }), true);
+eq("KM6 family excludes exact match", km6m.family.every(function(r){ return r[4] !== "MT6789H"; }), true);
+const x6840m = matchLists(x6840);
+eq("X6840 match unknown=false", x6840m.unknown, false);
+eq("X6840 match count > 0", x6840m.match.length > 0, true);
+eq("X6840 match all MT6769", x6840m.match.every(function(r){ return r[4] === "MT6769"; }), true);
+eq("X6840 match excludes self", x6840m.match.indexOf(x6840) === -1, true);
 console.log(asserts.join("\\n"));
 console.log("DB rows: " + DB.length);
+console.log("KM6 match: " + km6m.match.length + " e.g. " + km6m.match.slice(0, 5).map(function(r){ return r[1] + " (" + r[2] + ")"; }).join(" | "));
+console.log("KM6 family: " + km6m.family.length + " e.g. " + km6m.family.slice(0, 5).map(function(r){ return r[1] + " (" + r[2] + ")"; }).join(" | "));
+console.log("X6840 match: " + x6840m.match.length + " e.g. " + x6840m.match.slice(0, 5).map(function(r){ return r[1] + " (" + r[2] + ")"; }).join(" | "));
+console.log("X6840 family: " + x6840m.family.length + " e.g. " + x6840m.family.slice(0, 5).map(function(r){ return r[1] + " (" + r[2] + ")"; }).join(" | "));
 """
 
 
@@ -72,6 +91,11 @@ def main():
         ("NO MATCH", "NO MATCH label"),
         ("MALOOM NAHI", "MALOOM NAHI label"),
         ("compareVerdict", "compare logic present"),
+        ("Ye models laga sakte ho (same chip)", "match group heading"),
+        ("Qareebi family (aksar kaam ho jata hai)", "family group heading"),
+        ("Is model ka MT verify nahi hua", "unverified-MT note"),
+        ("aur dekho (", "expand button"),
+        ("function matchLists", "matchLists logic present"),
     ]:
         if needle not in html:
             fails.append(f"missing in HTML: {label} ({needle!r})")
