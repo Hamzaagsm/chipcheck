@@ -1,0 +1,3589 @@
+{
+ "mapped": {
+  "Dimensity 1000+": {
+   "mt": "MT6889",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6889Z/CZA",
+   "nm": "7",
+   "cpu": "4x2.6 GHz Cortex-A77 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G77 MC9"
+  },
+  "Dimensity 1000L": {
+   "mt": "MT6885",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6885Z/CZA",
+   "nm": "7",
+   "cpu": "4x2.2 GHz Cortex-A77 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G77 MC7"
+  },
+  "Dimensity 1080": {
+   "mt": "MT6877",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6877, MT6877V/TTZA, MT6877V_T/TTZA",
+   "nm": "6",
+   "cpu": "2x2.6 GHz Cortex-A78 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G68 MC4"
+  },
+  "Dimensity 1100": {
+   "mt": "MT6891",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6891, MT6891Z/CZA, MT6891Z_Z/CZA, MT6891Z_T/CZA",
+   "nm": "6",
+   "cpu": "4x2.6 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G77 MC9"
+  },
+  "Dimensity 1200": {
+   "mt": "MT6893",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6893, MT6893Z/CZA, MT6893Z_A/CZA",
+   "nm": "6",
+   "cpu": "1x3.0 GHz Cortex-A78 + 3x2.6 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G77 MC9"
+  },
+  "Dimensity 1200 AI": {
+   "mt": "MT6893",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05); GizChina + GizBot (1200-AI / 1200-Max are Dimensity 1200 custom variants via MediaTek 5G Open Architecture, same CPU/GPU)",
+   "nm": "6",
+   "cpu": "1x3.0 GHz Cortex-A78 + 3x2.6 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G77 MC9"
+  },
+  "Dimensity 1200 Max": {
+   "mt": "MT6893",
+   "source": "Once Human official requirements (Dimensity 1200 Max = MT6893/64-bit); Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "6",
+   "cpu": "1x3.0 GHz Cortex-A78 + 3x2.6 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G77 MC9"
+  },
+  "Dimensity 1300": {
+   "mt": "MT6893",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6893Z_Z/CZA, MT6893Z_T/CZA",
+   "nm": "6",
+   "cpu": "1x3.0 GHz Cortex-A78 + 3x2.6 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G77 MC9"
+  },
+  "Dimensity 6020": {
+   "mt": "MT6833",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "7",
+   "cpu": "2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2",
+   "note": "Wikipedia: Dimensity 700 renamed."
+  },
+  "Dimensity 6080": {
+   "mt": "MT6833",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "6",
+   "cpu": "2x2.4 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2",
+   "note": "Wikipedia: Dimensity 810 renamed."
+  },
+  "Dimensity 6100 Plus": {
+   "mt": "MT6835",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6835, MT6835V/ZA, MT8755V/TZB",
+   "nm": "6",
+   "cpu": "2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2",
+   "note": "'Plus' is the spelled-out form of '+'."
+  },
+  "Dimensity 6100+": {
+   "mt": "MT6835",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6835, MT6835V/ZA, MT8755V/TZB",
+   "nm": "6",
+   "cpu": "2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "Dimensity 6300": {
+   "mt": "MT6835",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6835, MT6835T, MT6835V/TZB",
+   "nm": "6",
+   "cpu": "2x2.4 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "Dimensity 6360 Max": {
+   "mt": "MT6835",
+   "source": "DeviceInfo.app (Dimensity 6360 Max reports as MT6835c; 6nm, 2x2.4 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55); Wikipedia lists Dimensity 6360 with no part number",
+   "variant": "MT6835c",
+   "nm": "6",
+   "cpu": "2x2.4 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "note": "Wikipedia 6360 row has no part number; the Max variant's reported model code MT6835c settles the family."
+  },
+  "Dimensity 6400": {
+   "mt": "MT6835",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05); NanoReview (6400 GPU Mali-G57 MP2)",
+   "variant": "MT6835, MT6835V/TTZB",
+   "nm": "6",
+   "cpu": "2x2.5 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "Dimensity 6400 Max": {
+   "mt": "MT6835",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05); Gizinfo/MyMobileGuru spec match (6400 Max: 2x2.5 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55, Mali-G57 MC2, 6nm — identical to Dimensity 6400)",
+   "variant": "MT6835, MT6835V/TTZB",
+   "nm": "6",
+   "cpu": "2x2.5 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "Dimensity 700": {
+   "mt": "MT6833",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6833, MT6833G, MT6833V/ZA, MT6833V/NZA",
+   "nm": "7",
+   "cpu": "2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "Dimensity 7020": {
+   "mt": "MT6855",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "6",
+   "cpu": "2x2.2 GHz Cortex-A78 + 6x2.0 GHz Cortex-A55",
+   "gpu": "IMG BXM-8-256",
+   "note": "Wikipedia: Dimensity 930 renamed."
+  },
+  "Dimensity 7025": {
+   "mt": "MT6855",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6855V/ATZA, MT6855V_A/ATZA",
+   "nm": "6",
+   "cpu": "2x2.5 GHz Cortex-A78 + 6x2.0 GHz Cortex-A55",
+   "note": "Wikipedia 7025 row lists no GPU."
+  },
+  "Dimensity 7025 Ultra": {
+   "mt": "MT6855",
+   "source": "91mobiles (Dimensity 7025 Ultra Model No MT6855); Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6855V/ATZA, MT6855V_A/ATZA",
+   "nm": "6",
+   "cpu": "2x2.5 GHz Cortex-A78 + 6x2.0 GHz Cortex-A55"
+  },
+  "Dimensity 7030": {
+   "mt": "MT6879",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "6",
+   "cpu": "2x2.5 GHz Cortex-A78 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G610 MC3",
+   "note": "Wikipedia: Dimensity 1050 renamed (= MT6879)."
+  },
+  "Dimensity 7050": {
+   "mt": "MT6877",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "6",
+   "cpu": "2x2.6 GHz Cortex-A78 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G68 MC4",
+   "note": "Wikipedia: Dimensity 1080 renamed."
+  },
+  "Dimensity 7100": {
+   "mt": "MT6858",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6858, MT6858V/ZA",
+   "nm": "6",
+   "cpu": "4x2.4 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G610 MC2"
+  },
+  "Dimensity 720": {
+   "mt": "MT6853",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6853V/ZA, MT6853V/NZA",
+   "nm": "7",
+   "cpu": "2x2.0 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC3"
+  },
+  "Dimensity 720 / Dimensity 800U (variants)": {
+   "mt": "MT6853",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "7",
+   "cpu": "2x2.0/2.4 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC3",
+   "note": "Variant split, but both chips are MT6853."
+  },
+  "Dimensity 720 5G": {
+   "mt": "MT6853",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6853V/ZA, MT6853V/NZA",
+   "nm": "7",
+   "cpu": "2x2.0 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC3"
+  },
+  "Dimensity 7300": {
+   "mt": "MT6878",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6878, MT6878V/ZA, MT6878V_A/ZA, MT6878V_B/ZA, MT6878V_E/ZA, MT8775",
+   "nm": "4",
+   "cpu": "4x2.5 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G615 MC2"
+  },
+  "Dimensity 7300 Energy": {
+   "mt": "MT6878",
+   "source": "91mobiles (7300 Energy Model No MT6878) + F64 Ultra Suite log on OPPO Reno12 Pro 5G (Dimensity 7300-Energy, SoC mt6878); Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "4",
+   "cpu": "4x2.5 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G615 MC2"
+  },
+  "Dimensity 7300 Energy*": {
+   "mt": "MT6878",
+   "source": "91mobiles (7300 Energy Model No MT6878) + F64 Ultra Suite log on OPPO Reno12 Pro 5G (Dimensity 7300-Energy, SoC mt6878); Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "4",
+   "cpu": "4x2.5 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G615 MC2"
+  },
+  "Dimensity 7300 Pro": {
+   "mt": "MT6878",
+   "source": "91mobiles (7300 Pro Model No MT6878); Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "4",
+   "cpu": "4x2.5 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G615 MC2"
+  },
+  "Dimensity 7300 Ultimate": {
+   "mt": "MT6878",
+   "source": "Wikipedia base chip + verified suffix-variant pattern (OEM suffixes Ultra/Ultimate/Max/Pro/Plus/Turbo/Energy/Super/Extreme share the base silicon; verified cases: Dimensity 7200 Pro=MT6886, 7300 Energy=MT6878, 7300 Pro=MT6878, 7400 Turbo=MT6878, 7500 Turbo=MT6881, 7350 Pro=MT6886, 8350 Extreme=MT6897, 6360 Max=MT6835, 7025 Ultra=MT6855, 8100 Max/8000 Max=MT6895, 8100 Ultra=MT6895, 8200 Ultra=MT6896, 8300 Ultra=MT6897, 7200 Ultra=MT6886, Helio G92 Max=MT6769I, Helio G99 Ultra/Ultimate=G99)",
+   "nm": "4",
+   "cpu": "4x2.5 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G615 MC2"
+  },
+  "Dimensity 7350 Pro": {
+   "mt": "MT6886",
+   "source": "91mobiles (7350 Pro Model No MT6886V) + DeviceInfo.app (reports as MT6886c); Wikipedia Dimensity 7350 = MT6886V/TCZA",
+   "variant": "MT6886V/TCZA",
+   "nm": "4",
+   "cpu": "2x3.0 GHz Cortex-A715 + 6x2.0 GHz Cortex-A510",
+   "gpu": "Mali-G610 MC4"
+  },
+  "Dimensity 7360 Max": {
+   "mt": "MT6878",
+   "source": "Wikipedia Dimensity 7360 (MT6878V_G/ZA) + Smartprix spec match (7360 Max: 4x2.5 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55, Mali-G615, 4nm)",
+   "variant": "MT6878V_G/ZA",
+   "nm": "4",
+   "cpu": "4x2.5 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G615 MC2"
+  },
+  "Dimensity 7360 Super": {
+   "mt": "MT6878",
+   "source": "Wikipedia Dimensity 7360 (MT6878V_G/ZA) + GSMArena-spec listings (7360 Super: 4nm, Mali-G615, same 7360 platform)",
+   "variant": "MT6878V_G/ZA",
+   "nm": "4",
+   "cpu": "4x2.5 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G615 MC2"
+  },
+  "Dimensity 7400": {
+   "mt": "MT6878",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6878V/TZA, MT6878V_B/TZA, MT6878V_C/TZA",
+   "nm": "4",
+   "cpu": "4x2.6 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G615 MC2",
+   "note": "CONFLICT RESOLVED: mtk_2026_coverage.py said MT6879 — wrong; Wikipedia lists 7400 as MT6878 variants and MT6879 as Dimensity 1050. DB note (X6876) saying MT6878 was correct."
+  },
+  "Dimensity 7400 Ultimate": {
+   "mt": "MT6878",
+   "source": "Wikipedia base chip + verified suffix-variant pattern (OEM suffixes Ultra/Ultimate/Max/Pro/Plus/Turbo/Energy/Super/Extreme share the base silicon; verified cases: Dimensity 7200 Pro=MT6886, 7300 Energy=MT6878, 7300 Pro=MT6878, 7400 Turbo=MT6878, 7500 Turbo=MT6881, 7350 Pro=MT6886, 8350 Extreme=MT6897, 6360 Max=MT6835, 7025 Ultra=MT6855, 8100 Max/8000 Max=MT6895, 8100 Ultra=MT6895, 8200 Ultra=MT6896, 8300 Ultra=MT6897, 7200 Ultra=MT6886, Helio G92 Max=MT6769I, Helio G99 Ultra/Ultimate=G99)",
+   "nm": "4",
+   "cpu": "4x2.6 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G615 MC2"
+  },
+  "Dimensity 800": {
+   "mt": "MT6873",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "7",
+   "cpu": "4x2.0 GHz Cortex-A76 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC4"
+  },
+  "Dimensity 800 5G": {
+   "mt": "MT6873",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "7",
+   "cpu": "4x2.0 GHz Cortex-A76 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC4"
+  },
+  "Dimensity 8000 Max": {
+   "mt": "MT6895",
+   "source": "Once Human official requirements (Dimensity 8000 Max = MT6895/64-bit); Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "5",
+   "cpu": "4x2.75 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G610 MC6"
+  },
+  "Dimensity 800U": {
+   "mt": "MT6853",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6853T, MT6853V/TNZA",
+   "nm": "7",
+   "cpu": "2x2.4 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC3"
+  },
+  "Dimensity 8020": {
+   "mt": "MT6891",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "6",
+   "cpu": "4x2.6 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G77 MC9",
+   "note": "Wikipedia: Dimensity 1100 renamed."
+  },
+  "Dimensity 8050": {
+   "mt": "MT6893",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "6",
+   "cpu": "1x3.0 GHz Cortex-A78 + 3x2.6 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G77 MC9",
+   "note": "Wikipedia: Dimensity 1300 renamed (= MT6893). CONFLICT: DB notes (X6710/CK8n/CK9n/AD11) assume 'D8050/MT6896 class' — wrong per Wikipedia."
+  },
+  "Dimensity 810": {
+   "mt": "MT6833",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6833P, MT6833GP, MT6833V/PNZA",
+   "nm": "6",
+   "cpu": "2x2.4 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "Dimensity 8100 Max": {
+   "mt": "MT6895",
+   "source": "Once Human official requirements (Dimensity 8100 Max = MT6895/64-bit); Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "5",
+   "cpu": "4x2.85 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G610 MC6"
+  },
+  "Dimensity 8200": {
+   "mt": "MT6896",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6896, MT6896Z/CZA, MT6896Z_B/CZA",
+   "nm": "4",
+   "cpu": "1x3.1 GHz Cortex-A78 + 3x3.0 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G610 MC6",
+   "note": "CONFLICT: mtk_2026_coverage.py maps 8200 to MT6895 and 8000/8100 to MT6896 — Wikipedia has it the other way round (8200 = MT6896, 8000/8100 = MT6895). DB note PHV110 already flagged this as a naming conflict."
+  },
+  "Dimensity 8200 Ultimate": {
+   "mt": "MT6896",
+   "source": "Wikipedia base chip + verified suffix-variant pattern (OEM suffixes Ultra/Ultimate/Max/Pro/Plus/Turbo/Energy/Super/Extreme share the base silicon; verified cases: Dimensity 7200 Pro=MT6886, 7300 Energy=MT6878, 7300 Pro=MT6878, 7400 Turbo=MT6878, 7500 Turbo=MT6881, 7350 Pro=MT6886, 8350 Extreme=MT6897, 6360 Max=MT6835, 7025 Ultra=MT6855, 8100 Max/8000 Max=MT6895, 8100 Ultra=MT6895, 8200 Ultra=MT6896, 8300 Ultra=MT6897, 7200 Ultra=MT6886, Helio G92 Max=MT6769I, Helio G99 Ultra/Ultimate=G99)",
+   "nm": "4",
+   "cpu": "1x3.1 GHz Cortex-A78 + 3x3.0 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G610 MC6"
+  },
+  "Dimensity 8250": {
+   "mt": "MT6896",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6896Z_C/CZA",
+   "nm": "4",
+   "cpu": "1x3.1 GHz Cortex-A78 + 3x3.0 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G610 MC6"
+  },
+  "Dimensity 8350": {
+   "mt": "MT6897",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6897, MT6897Z_B/ZA, MT6897Z_D/ZA, MT6897Z_E/ZA, MT6897Z_F/ZA, MT8792Z/NA",
+   "nm": "4",
+   "cpu": "1x3.35 GHz Cortex-A715 + 3x3.2 GHz Cortex-A715 + 4x2.2 GHz Cortex-A510",
+   "gpu": "Mali-G615 MC6"
+  },
+  "Dimensity 8350 Extreme": {
+   "mt": "MT6897",
+   "source": "91mobiles (8350 Extreme Edition Model No MT6897); Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "4",
+   "cpu": "1x3.35 GHz Cortex-A715 + 3x3.2 GHz Cortex-A715 + 4x2.2 GHz Cortex-A510",
+   "gpu": "Mali-G615 MC6"
+  },
+  "Dimensity 8350 Ultimate": {
+   "mt": "MT6897",
+   "source": "Wikipedia base chip + verified suffix-variant pattern (OEM suffixes Ultra/Ultimate/Max/Pro/Plus/Turbo/Energy/Super/Extreme share the base silicon; verified cases: Dimensity 7200 Pro=MT6886, 7300 Energy=MT6878, 7300 Pro=MT6878, 7400 Turbo=MT6878, 7500 Turbo=MT6881, 7350 Pro=MT6886, 8350 Extreme=MT6897, 6360 Max=MT6835, 7025 Ultra=MT6855, 8100 Max/8000 Max=MT6895, 8100 Ultra=MT6895, 8200 Ultra=MT6896, 8300 Ultra=MT6897, 7200 Ultra=MT6886, Helio G92 Max=MT6769I, Helio G99 Ultra/Ultimate=G99)",
+   "nm": "4",
+   "cpu": "1x3.35 GHz Cortex-A715 + 3x3.2 GHz Cortex-A715 + 4x2.2 GHz Cortex-A510",
+   "gpu": "Mali-G615 MC6"
+  },
+  "Dimensity 8350 Ultra": {
+   "mt": "MT6897",
+   "source": "Wikipedia base chip + verified suffix-variant pattern (OEM suffixes Ultra/Ultimate/Max/Pro/Plus/Turbo/Energy/Super/Extreme share the base silicon; verified cases: Dimensity 7200 Pro=MT6886, 7300 Energy=MT6878, 7300 Pro=MT6878, 7400 Turbo=MT6878, 7500 Turbo=MT6881, 7350 Pro=MT6886, 8350 Extreme=MT6897, 6360 Max=MT6835, 7025 Ultra=MT6855, 8100 Max/8000 Max=MT6895, 8100 Ultra=MT6895, 8200 Ultra=MT6896, 8300 Ultra=MT6897, 7200 Ultra=MT6886, Helio G92 Max=MT6769I, Helio G99 Ultra/Ultimate=G99)",
+   "nm": "4",
+   "cpu": "1x3.35 GHz Cortex-A715 + 3x3.2 GHz Cortex-A715 + 4x2.2 GHz Cortex-A510",
+   "gpu": "Mali-G615 MC6"
+  },
+  "Dimensity 8400 Max": {
+   "mt": "MT6899",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05); Gizinfo/MyMobileGuru spec match (8400 Max: 1x3.25 + 3x3.0 + 4x2.1 GHz Cortex-A725, Mali-G720 MC7, 4nm — identical to Dimensity 8400)",
+   "nm": "4",
+   "cpu": "1x3.25 GHz Cortex-A725 + 3x3.0 GHz Cortex-A725 + 4x2.1 GHz Cortex-A725",
+   "gpu": "Mali-G720 MC7"
+  },
+  "Dimensity 8450": {
+   "mt": "MT6899",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6899Z_D/ZA",
+   "nm": "4",
+   "cpu": "1x3.25 GHz Cortex-A725 + 3x3.0 GHz Cortex-A725 + 4x2.1 GHz Cortex-A725",
+   "gpu": "Mali-G720 MC7"
+  },
+  "Dimensity 8500 Super": {
+   "mt": "MT6899",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05); GSMArena-spec listings (8500 Super: 1x3.4 + 3x3.2 + 4x2.2 GHz Cortex-A725, 4nm — identical to Dimensity 8500)",
+   "nm": "4",
+   "cpu": "1x3.4 GHz Cortex-A725 + 3x3.2 GHz Cortex-A725 + 4x2.2 GHz Cortex-A725",
+   "gpu": "Mali-G720 MC8"
+  },
+  "Dimensity 8550 Super": {
+   "mt": "MT6899",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05); GSMArena-spec listings (8550 Super: 1x3.4 + 3x3.2 + 4x2.2 GHz Cortex-A725, 4nm — identical to Dimensity 8500/8550)",
+   "nm": "4",
+   "cpu": "1x3.4 GHz Cortex-A725 + 3x3.2 GHz Cortex-A725 + 4x2.2 GHz Cortex-A725",
+   "gpu": "Mali-G720 MC8"
+  },
+  "Dimensity 900": {
+   "mt": "MT6877",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6877, MT6877V/ZA",
+   "nm": "6",
+   "cpu": "2x2.4 GHz Cortex-A78 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G68 MC4"
+  },
+  "Dimensity 9000": {
+   "mt": "MT6983",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6983, MT6983Z/CZA, MT8798, MT8798Z/CNZA",
+   "nm": "4",
+   "cpu": "1x3.05 GHz Cortex-X2 + 3x2.85 GHz Cortex-A710 + 4x1.8 GHz Cortex-A510",
+   "gpu": "Mali-G710 MC10"
+  },
+  "Dimensity 9000+": {
+   "mt": "MT6983",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6983, MT6983W/CZA, MT8798, MT8798Z/TNZA",
+   "nm": "4",
+   "cpu": "1x3.2 GHz Cortex-X2 + 3x2.85 GHz Cortex-A710 + 4x1.8 GHz Cortex-A510",
+   "gpu": "Mali-G710 MC10"
+  },
+  "Dimensity 920": {
+   "mt": "MT6877",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6877, MT6877T, MT6877V/TZA",
+   "nm": "6",
+   "cpu": "2x2.5 GHz Cortex-A78 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G68 MC4"
+  },
+  "Dimensity 9200": {
+   "mt": "MT6985",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6985, MT6985W/CZA",
+   "nm": "4",
+   "cpu": "1x3.05 GHz Cortex-X3 + 3x2.85 GHz Cortex-A715 + 4x1.8 GHz Cortex-A510",
+   "gpu": "Immortalis-G715 MC11"
+  },
+  "Dimensity 9200+": {
+   "mt": "MT6985",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6985, MT6985W/TCZA",
+   "nm": "4",
+   "cpu": "1x3.35 GHz Cortex-X3 + 3x3.0 GHz Cortex-A715 + 4x2.0 GHz Cortex-A510",
+   "gpu": "Immortalis-G715 MC11"
+  },
+  "Dimensity 930": {
+   "mt": "MT6855",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6855, MT6855G, MT6855V/AZA",
+   "nm": "6",
+   "cpu": "2x2.2 GHz Cortex-A78 + 6x2.0 GHz Cortex-A55",
+   "gpu": "IMG BXM-8-256"
+  },
+  "Dimensity 9300": {
+   "mt": "MT6989",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6989, MT6989W/CZA, MT8796W/CNZA",
+   "nm": "4",
+   "cpu": "1x3.25 GHz Cortex-X4 + 3x2.85 GHz Cortex-X4 + 4x2.0 GHz Cortex-A720",
+   "gpu": "Immortalis-G720 MC12"
+  },
+  "Dimensity 9400": {
+   "mt": "MT6991",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6991, MT6991Z/CZA, MT6991Z/CZB, MT6991W/CZA",
+   "nm": "3",
+   "cpu": "1x3.62 GHz Cortex-X925 + 3x3.3 GHz Cortex-X4 + 4x2.4 GHz Cortex-A720",
+   "gpu": "Immortalis-G925 MC12"
+  },
+  "Dimensity 9400 Plus": {
+   "mt": "MT6991",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6991, MT6991Z/TCZA, MT6991Z/TCZB, MT8799Z/TNZB",
+   "nm": "3",
+   "cpu": "1x3.73 GHz Cortex-X925 + 3x3.3 GHz Cortex-X4 + 4x2.4 GHz Cortex-A720",
+   "gpu": "Immortalis-G925 MC12",
+   "note": "'Plus' is the spelled-out form of '+'."
+  },
+  "Dimensity 9400e": {
+   "mt": "MT6989",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6989T_e",
+   "nm": "4",
+   "gpu": "Immortalis-G720 MC12",
+   "note": "Wikipedia 9400e row lists no CPU; it is a 9300-family part (MT6989T_e)."
+  },
+  "Dimensity 9500": {
+   "mt": "MT6993",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05); NanoReview (9500 CPU: 1x4.21 GHz C1-Ultra + 3x3.5 GHz C1-Premium + 4x2.7 GHz C1-Pro)",
+   "variant": "MT6993, MT6993W/CZA",
+   "nm": "3",
+   "cpu": "1x4.21 GHz C1-Ultra + 3x3.5 GHz C1-Premium + 4x2.7 GHz C1-Pro",
+   "gpu": "Mali G1-Ultra MC12"
+  },
+  "Dimensity 9500s": {
+   "mt": "MT6991",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6991Z/SCZB, MT6991Z/ECZB, MT8799Z/ECZB",
+   "nm": "3",
+   "gpu": "Immortalis-G925 MC11/MC12",
+   "note": "Wikipedia 9500s row lists no CPU."
+  },
+  "Dimensity 9600 Pro": {
+   "mt": "MT6995",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6995, MT6995Z/CZB",
+   "nm": "2",
+   "cpu": "2x4.55 GHz C2-Ultra + 3x4.35 GHz C2-Pro + 3x3.1 GHz C2-Pro",
+   "gpu": "Mali G2-Ultra NX MC12"
+  },
+  "Dimensity 9600M": {
+   "mt": "MT6994",
+   "source": "NanoReview + 91mobiles (9600M Model No MT6994); Wikipedia lists Dimensity 9600M with no part number",
+   "nm": "3",
+   "cpu": "1x4.21 GHz C1-Ultra + 3x3.5 GHz C1-Premium + 4x2.7 GHz C1-Pro",
+   "gpu": "Mali-G1 Ultra MC12",
+   "note": "CONFLICT: some sources (OTON Technology, SiliconCat) claim 9600M is a rebadged Dimensity 9500 die (MT6993). Mapped to MT6994 on the majority of spec aggregators (NanoReview x3, 91mobiles x4) plus the MT6993/6994/6995 sequence; flagged for re-check."
+  },
+  "Helio A20 (MT6761D)": {
+   "mt": "MT6761",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6761V/WE",
+   "nm": "12",
+   "cpu": "4x1.8 GHz Cortex-A53",
+   "gpu": "PowerVR GE8300"
+  },
+  "Helio A22": {
+   "mt": "MT6761",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6761V/WAB, MT6761V/WBB",
+   "nm": "12",
+   "cpu": "4x2.0 GHz Cortex-A53",
+   "gpu": "PowerVR GE8300"
+  },
+  "Helio A25": {
+   "mt": "MT6762",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6762V/WB, MT6762V/WD",
+   "nm": "12",
+   "cpu": "4x1.8 GHz Cortex-A53 + 4x1.5 GHz Cortex-A53",
+   "gpu": "PowerVR GE8320"
+  },
+  "Helio G100": {
+   "mt": "MT6789H",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6789H, MT6789I, MT6789J",
+   "nm": "6",
+   "cpu": "2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "Helio G100 Ultimate": {
+   "mt": "MT6789H",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6789H, MT6789I, MT6789J",
+   "nm": "6",
+   "cpu": "2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2",
+   "note": "Anchor: KM6 (Tecno Spark 40 Pro) -> MT6789H."
+  },
+  "Helio G200": {
+   "mt": "MT6789",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6789T",
+   "nm": "6",
+   "cpu": "2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2",
+   "note": "Anchor: X6885 (Infinix Hot 60 Pro) -> MT6789; Wikipedia lists the G200 part as MT6789T."
+  },
+  "Helio G200 Ultimate": {
+   "mt": "MT6789",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6789T",
+   "nm": "6",
+   "cpu": "2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2",
+   "note": "Anchor: CN5c (Tecno Camon 50 Pro) -> MT6789."
+  },
+  "Helio G25": {
+   "mt": "MT6762G",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "12",
+   "cpu": "4x2.0 GHz Cortex-A53 + 4x1.5 GHz Cortex-A53",
+   "gpu": "PowerVR GE8320"
+  },
+  "Helio G25 (MT6762G)": {
+   "mt": "MT6762G",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "12",
+   "cpu": "4x2.0 GHz Cortex-A53 + 4x1.5 GHz Cortex-A53",
+   "gpu": "PowerVR GE8320"
+  },
+  "Helio G35": {
+   "mt": "MT6765G",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6765G, MT6765V/CB",
+   "nm": "12",
+   "cpu": "4x2.3 GHz Cortex-A53 + 4x1.8 GHz Cortex-A53",
+   "gpu": "PowerVR GE8320"
+  },
+  "Helio G35 (MT6765G)": {
+   "mt": "MT6765G",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6765G, MT6765V/CB",
+   "nm": "12",
+   "cpu": "4x2.3 GHz Cortex-A53 + 4x1.8 GHz Cortex-A53",
+   "gpu": "PowerVR GE8320"
+  },
+  "Helio G36": {
+   "mt": "MT6765V",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6765V/XAA, MT6765V/XBA",
+   "nm": "12",
+   "cpu": "4x2.2 GHz Cortex-A53 + 4x1.6 GHz Cortex-A53",
+   "note": "Wikipedia G36 row lists no GPU."
+  },
+  "Helio G37": {
+   "mt": "MT6765H",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "12",
+   "cpu": "4x2.3 GHz Cortex-A53 + 4x1.8 GHz Cortex-A53",
+   "note": "Wikipedia G37 row lists no GPU."
+  },
+  "Helio G37 (MT6765)": {
+   "mt": "MT6765",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "12",
+   "cpu": "4x2.3 GHz Cortex-A53 + 4x1.8 GHz Cortex-A53",
+   "gpu": "PowerVR GE8320",
+   "note": "String embeds the base MT6765 token; Wikipedia lists G37's part as MT6765H."
+  },
+  "Helio G70": {
+   "mt": "MT6769",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6769V/CB",
+   "nm": "12",
+   "cpu": "2x2.0 GHz Cortex-A75 + 6x1.7 GHz Cortex-A55",
+   "gpu": "Mali-G52 MC2",
+   "note": "Verified on Wikipedia (parent flagged 'verify'): G70 is MT6769-family, variant MT6769V/CB."
+  },
+  "Helio G80": {
+   "mt": "MT6769",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6769T, MT6769V/CT, MT6769V/CU",
+   "nm": "12",
+   "cpu": "2x2.0 GHz Cortex-A75 + 6x1.8 GHz Cortex-A55",
+   "gpu": "Mali-G52 MC2"
+  },
+  "Helio G81": {
+   "mt": "MT6769",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6769J, MT6769L, MT6769S",
+   "nm": "12",
+   "cpu": "2x2.0 GHz Cortex-A75 + 6x1.7 GHz Cortex-A55",
+   "gpu": "Mali-G52 MC2"
+  },
+  "Helio G81 Ultimate": {
+   "mt": "MT6769",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6769J, MT6769L, MT6769S",
+   "nm": "12",
+   "cpu": "2x2.0 GHz Cortex-A75 + 6x1.7 GHz Cortex-A55",
+   "gpu": "Mali-G52 MC2",
+   "note": "Anchor: X6840 (Infinix Smart 20) -> MT6769."
+  },
+  "Helio G81 Ultra": {
+   "mt": "MT6769",
+   "source": "Wikipedia base chip + verified suffix-variant pattern (OEM suffixes Ultra/Ultimate/Max/Pro/Plus/Turbo/Energy/Super/Extreme share the base silicon; verified cases: Dimensity 7200 Pro=MT6886, 7300 Energy=MT6878, 7300 Pro=MT6878, 7400 Turbo=MT6878, 7500 Turbo=MT6881, 7350 Pro=MT6886, 8350 Extreme=MT6897, 6360 Max=MT6835, 7025 Ultra=MT6855, 8100 Max/8000 Max=MT6895, 8100 Ultra=MT6895, 8200 Ultra=MT6896, 8300 Ultra=MT6897, 7200 Ultra=MT6886, Helio G92 Max=MT6769I, Helio G99 Ultra/Ultimate=G99)",
+   "variant": "MT6769J, MT6769L, MT6769S",
+   "nm": "12",
+   "cpu": "2x2.0 GHz Cortex-A75 + 6x1.7 GHz Cortex-A55",
+   "gpu": "Mali-G52 MC2"
+  },
+  "Helio G85": {
+   "mt": "MT6769",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6769Z, MT6769V/CZ",
+   "nm": "12",
+   "cpu": "2x2.0 GHz Cortex-A75 + 6x1.8 GHz Cortex-A55",
+   "gpu": "Mali-G52 MC2"
+  },
+  "Helio G85 (MT6769Z)": {
+   "mt": "MT6769",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6769Z, MT6769V/CZ",
+   "nm": "12",
+   "cpu": "2x2.0 GHz Cortex-A75 + 6x1.8 GHz Cortex-A55",
+   "gpu": "Mali-G52 MC2"
+  },
+  "Helio G85 (MT6769Z, global)": {
+   "mt": "MT6769",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6769Z, MT6769V/CZ",
+   "nm": "12",
+   "cpu": "2x2.0 GHz Cortex-A75 + 6x1.8 GHz Cortex-A55",
+   "gpu": "Mali-G52 MC2"
+  },
+  "Helio G88": {
+   "mt": "MT6769",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6769H",
+   "nm": "12",
+   "note": "Wikipedia G88 row lists no CPU/GPU."
+  },
+  "Helio G88 (MT6769H)": {
+   "mt": "MT6769",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6769H",
+   "nm": "12",
+   "note": "Wikipedia G88 row lists no CPU/GPU."
+  },
+  "Helio G90T": {
+   "mt": "MT6785",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6785V/CC",
+   "nm": "12",
+   "cpu": "2x2.05 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G76 MC4"
+  },
+  "Helio G91": {
+   "mt": "MT6769",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6769G, MT6769K",
+   "nm": "12",
+   "note": "Wikipedia G91 row lists no CPU/GPU."
+  },
+  "Helio G92 Max": {
+   "mt": "MT6769",
+   "source": "CPU-Boss + NanoReview + Radargit + 91mobiles (G92 Max = MT6769I); Wikipedia Helio G92 = MT6769I",
+   "variant": "MT6769I",
+   "nm": "12",
+   "cpu": "2x2.0 GHz Cortex-A75 + 6x1.8 GHz Cortex-A55",
+   "gpu": "Mali-G52 MC2"
+  },
+  "Helio G95": {
+   "mt": "MT6785",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6785V/CD",
+   "nm": "12",
+   "cpu": "2x2.05 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G76 MC4"
+  },
+  "Helio G96": {
+   "mt": "MT6781",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6781, MT6781V/CD",
+   "nm": "12",
+   "cpu": "2x2.05 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "Helio G96 (MT6781)": {
+   "mt": "MT6781",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6781, MT6781V/CD",
+   "nm": "12",
+   "cpu": "2x2.05 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "Helio G99": {
+   "mt": "MT6789",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6789, MT6789G, MT6789U, MT6789V/CD, MT8781",
+   "nm": "6",
+   "cpu": "2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "Helio G99 Ultimate": {
+   "mt": "MT6789",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05); NanoReview (G99 Ultimate is the same chip as G99)",
+   "nm": "6",
+   "cpu": "2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "Helio P10": {
+   "mt": "MT6755",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "4x2.0 GHz Cortex-A53 + 4x1.2 GHz Cortex-A53",
+   "gpu": "Mali-T860 MP2"
+  },
+  "Helio P20 (MT6757CD)": {
+   "mt": "MT6757",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6757CD",
+   "nm": "16",
+   "cpu": "4x2.3 GHz Cortex-A53 + 4x1.6 GHz Cortex-A53",
+   "gpu": "Mali-T880 MP2",
+   "note": "CONFLICT: string says P20 but embeds MT6757CD, which is the P25 part (P20 = MT6757). Base MT6757 either way."
+  },
+  "Helio P22": {
+   "mt": "MT6762",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "12",
+   "cpu": "4x2.0 GHz Cortex-A53 + 4x1.5 GHz Cortex-A53",
+   "gpu": "PowerVR GE8320"
+  },
+  "Helio P22 (MT6762)": {
+   "mt": "MT6762",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "12",
+   "cpu": "4x2.0 GHz Cortex-A53 + 4x1.5 GHz Cortex-A53",
+   "gpu": "PowerVR GE8320"
+  },
+  "Helio P23": {
+   "mt": "MT6763",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6763, MT6763T",
+   "nm": "16",
+   "cpu": "4x2.3/2.5 GHz Cortex-A53 + 4x1.65 GHz Cortex-A53",
+   "gpu": "Mali-G71 MP2"
+  },
+  "Helio P25 Lite": {
+   "mt": "MT6757",
+   "source": "Kimovil + Mobosdata + FindPare spec pages (Helio P25 Lite = MT6757CD); Wikipedia P25/P25T = MT6757CD/MT6757T",
+   "variant": "MT6757CD",
+   "nm": "16",
+   "cpu": "4x2.39 GHz Cortex-A53 + 4x1.6 GHz Cortex-A53",
+   "gpu": "Mali-T880 MP2",
+   "note": "Samsung marketing name for a lower-clocked P25; part number MT6757CD confirmed by 3 spec sites."
+  },
+  "Helio P30": {
+   "mt": "MT6758",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "16",
+   "cpu": "4x2.3 GHz Cortex-A53 + 4x1.65 GHz Cortex-A53",
+   "gpu": "Mali-G71 MP2"
+  },
+  "Helio P35": {
+   "mt": "MT6765",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "12",
+   "cpu": "4x2.3 GHz Cortex-A53 + 4x1.8 GHz Cortex-A53",
+   "gpu": "PowerVR GE8320"
+  },
+  "Helio P35 (non-JP)": {
+   "mt": "MT6765",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "12",
+   "cpu": "4x2.3 GHz Cortex-A53 + 4x1.8 GHz Cortex-A53",
+   "gpu": "PowerVR GE8320"
+  },
+  "Helio P60": {
+   "mt": "MT6771",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "12",
+   "cpu": "4x2.0 GHz Cortex-A73 + 4x2.0 GHz Cortex-A53",
+   "gpu": "Mali-G72 MP3"
+  },
+  "Helio P60 (Global) / Helio P70 (India)": {
+   "mt": "MT6771",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "12",
+   "cpu": "4x2.0/2.1 GHz Cortex-A73 + 4x2.0 GHz Cortex-A53",
+   "gpu": "Mali-G72 MP3",
+   "note": "Variant split, but both chips are MT6771."
+  },
+  "Helio P65": {
+   "mt": "MT6768",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "12",
+   "cpu": "2x2.0 GHz Cortex-A75 + 6x1.7 GHz Cortex-A55",
+   "gpu": "Mali-G52 MC2"
+  },
+  "Helio P70": {
+   "mt": "MT6771",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6771V/CT, MT6771V/WT",
+   "nm": "12",
+   "cpu": "4x2.1 GHz Cortex-A73 + 4x2.0 GHz Cortex-A53",
+   "gpu": "Mali-G72 MP3"
+  },
+  "Helio P90": {
+   "mt": "MT6779",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6779V/CU",
+   "nm": "12",
+   "cpu": "2x2.2 GHz Cortex-A75 + 6x2.0 GHz Cortex-A55",
+   "gpu": "PowerVR GM9446"
+  },
+  "Helio P95": {
+   "mt": "MT6779",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6779V/CV",
+   "nm": "12",
+   "note": "Wikipedia P95 row has no CPU/GPU listed; same MT6779 silicon as P90."
+  },
+  "MT6580": {
+   "mt": "MT6580",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "4x1.3 GHz Cortex-A7",
+   "gpu": "Mali-400 MP1"
+  },
+  "MT6580A (MT6580P per MobileWithDrivers — Conflict 3)": {
+   "mt": "MT6580A",
+   "source": "DB chipset string itself (already an MT part number)",
+   "note": "CONFLICT in DB string: MobileWithDrivers claims MT6580P for this model — primary token MT6580A kept."
+  },
+  "MT6580M": {
+   "mt": "MT6580M",
+   "source": "DB chipset string itself (already an MT part number)"
+  },
+  "MT6582": {
+   "mt": "MT6582",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "gpu": "Mali-400 MP2",
+   "note": "Wikipedia MT6582 row lists no CPU clock."
+  },
+  "MT6737 (MT6737W per Spec411)": {
+   "mt": "MT6737",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "4x1.1-1.3 GHz Cortex-A53",
+   "gpu": "Mali-T720 MP2",
+   "note": "CONFLICT in DB string: Spec411 claims MT6737W — primary token MT6737 kept."
+  },
+  "MT6737M": {
+   "mt": "MT6737M",
+   "source": "DB chipset string itself (already an MT part number)"
+  },
+  "MT6750T": {
+   "mt": "MT6750T",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "4x1.5 GHz Cortex-A53 + 4x1.0 GHz Cortex-A53",
+   "gpu": "Mali-T860 MP2"
+  },
+  "MT6753": {
+   "mt": "MT6753",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "4x1.5 GHz Cortex-A53 + 4x1.3 GHz Cortex-A53",
+   "gpu": "Mali-T720 MP3"
+  },
+  "MT6755": {
+   "mt": "MT6755",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "4x2.0 GHz Cortex-A53 + 4x1.2 GHz Cortex-A53",
+   "gpu": "Mali-T860 MP2",
+   "note": "Helio P10 part."
+  },
+  "MT6768 Helio G70": {
+   "mt": "MT6768",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "12",
+   "cpu": "2x2.0 GHz Cortex-A75 + 6x1.7 GHz Cortex-A55",
+   "gpu": "Mali-G52 MC2",
+   "note": "CONFLICT: explicit MT token is MT6768 (Helio P65), but the label says Helio G70 (MT6769 per Wikipedia). Mapped to the explicit MT token; the G70 label disagrees."
+  },
+  "MT6789": {
+   "mt": "MT6789",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "6",
+   "cpu": "2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2",
+   "note": "Helio G99/G200 part."
+  },
+  "MT6835": {
+   "mt": "MT6835",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "6",
+   "gpu": "Mali-G57 MC2",
+   "note": "Dimensity 6100+/6300/6360/6400 family part; CPU clock varies by chip (2.2/2.4/2.5 GHz), so no single CPU string is given."
+  },
+  "MT6878": {
+   "mt": "MT6878",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "4",
+   "gpu": "Mali-G615 MC2",
+   "note": "Dimensity 7300/7360/7400 family part; CPU clock varies by chip (2.5/2.6 GHz), so no single CPU string is given."
+  },
+  "MT6895": {
+   "mt": "MT6895",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "5",
+   "gpu": "Mali-G610 MC6",
+   "note": "Dimensity 8000/8100 family part; CPU clock varies by chip (2.75/2.85 GHz), so no single CPU string is given."
+  },
+  "MT6897": {
+   "mt": "MT6897",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "4",
+   "cpu": "1x3.35 GHz Cortex-A715 + 3x3.2 GHz Cortex-A715 + 4x2.2 GHz Cortex-A510",
+   "gpu": "Mali-G615 MC6",
+   "note": "Dimensity 8300/8350 part."
+  },
+  "MediaTek Dimensity 1080": {
+   "mt": "MT6877",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6877, MT6877V/TTZA, MT6877V_T/TTZA",
+   "nm": "6",
+   "cpu": "2x2.6 GHz Cortex-A78 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G68 MC4"
+  },
+  "MediaTek Dimensity 1100": {
+   "mt": "MT6891",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6891, MT6891Z/CZA, MT6891Z_Z/CZA, MT6891Z_T/CZA",
+   "nm": "6",
+   "cpu": "4x2.6 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G77 MC9"
+  },
+  "MediaTek Dimensity 1200": {
+   "mt": "MT6893",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6893, MT6893Z/CZA, MT6893Z_A/CZA",
+   "nm": "6",
+   "cpu": "1x3.0 GHz Cortex-A78 + 3x2.6 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G77 MC9"
+  },
+  "MediaTek Dimensity 1300": {
+   "mt": "MT6893",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6893Z_Z/CZA, MT6893Z_T/CZA",
+   "nm": "6",
+   "cpu": "1x3.0 GHz Cortex-A78 + 3x2.6 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G77 MC9"
+  },
+  "MediaTek Dimensity 6020": {
+   "mt": "MT6833",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "7",
+   "cpu": "2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2",
+   "note": "Wikipedia: Dimensity 700 renamed."
+  },
+  "MediaTek Dimensity 6080": {
+   "mt": "MT6833",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "6",
+   "cpu": "2x2.4 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2",
+   "note": "Wikipedia: Dimensity 810 renamed."
+  },
+  "MediaTek Dimensity 6100+": {
+   "mt": "MT6835",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6835, MT6835V/ZA, MT8755V/TZB",
+   "nm": "6",
+   "cpu": "2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "MediaTek Dimensity 6300": {
+   "mt": "MT6835",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6835, MT6835T, MT6835V/TZB",
+   "nm": "6",
+   "cpu": "2x2.4 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "MediaTek Dimensity 6400": {
+   "mt": "MT6835",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05); NanoReview (6400 GPU Mali-G57 MP2)",
+   "variant": "MT6835, MT6835V/TTZB",
+   "nm": "6",
+   "cpu": "2x2.5 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "MediaTek Dimensity 700": {
+   "mt": "MT6833",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6833, MT6833G, MT6833V/ZA, MT6833V/NZA",
+   "nm": "7",
+   "cpu": "2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "MediaTek Dimensity 7020": {
+   "mt": "MT6855",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "6",
+   "cpu": "2x2.2 GHz Cortex-A78 + 6x2.0 GHz Cortex-A55",
+   "gpu": "IMG BXM-8-256",
+   "note": "Wikipedia: Dimensity 930 renamed."
+  },
+  "MediaTek Dimensity 7025 Ultra": {
+   "mt": "MT6855",
+   "source": "91mobiles (Dimensity 7025 Ultra Model No MT6855); Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6855V/ATZA, MT6855V_A/ATZA",
+   "nm": "6",
+   "cpu": "2x2.5 GHz Cortex-A78 + 6x2.0 GHz Cortex-A55"
+  },
+  "MediaTek Dimensity 7100": {
+   "mt": "MT6858",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6858, MT6858V/ZA",
+   "nm": "6",
+   "cpu": "4x2.4 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G610 MC2"
+  },
+  "MediaTek Dimensity 720": {
+   "mt": "MT6853",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6853V/ZA, MT6853V/NZA",
+   "nm": "7",
+   "cpu": "2x2.0 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC3"
+  },
+  "MediaTek Dimensity 7200": {
+   "mt": "MT6886",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6886, MT6886V_A/CZA, MT6886V_B/CZA",
+   "nm": "4",
+   "cpu": "2x2.8 GHz Cortex-A715 + 6x2.0 GHz Cortex-A510",
+   "gpu": "Mali-G610 MC4"
+  },
+  "MediaTek Dimensity 7200 Pro (MT6878)": {
+   "mt": "MT6886",
+   "source": "USPTO patent filing table (Daedalus Prime v. MediaTek: Dimensity 7200 Pro = MT6886) + 91mobiles (Model No MT6886) + Android Multi Tool log on Nothing Phone (2a): ChipId MT6886",
+   "nm": "4",
+   "cpu": "2x2.8 GHz Cortex-A715 + 6x2.0 GHz Cortex-A510",
+   "gpu": "Mali-G610 MC4",
+   "note": "CONFLICT: DB string embeds (MT6878) — wrong; 7200 Pro is MT6886 (3 sources)."
+  },
+  "MediaTek Dimensity 7200 Ultra": {
+   "mt": "MT6886",
+   "source": "Once Human official requirements (Dimensity 7200 Ultra = MT6886/64-bit); Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "4",
+   "cpu": "2x2.8 GHz Cortex-A715 + 6x2.0 GHz Cortex-A510",
+   "gpu": "Mali-G610 MC4"
+  },
+  "MediaTek Dimensity 7300": {
+   "mt": "MT6878",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6878, MT6878V/ZA, MT6878V_A/ZA, MT6878V_B/ZA, MT6878V_E/ZA, MT8775",
+   "nm": "4",
+   "cpu": "4x2.5 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G615 MC2"
+  },
+  "MediaTek Dimensity 7300 Ultra": {
+   "mt": "MT6878",
+   "source": "Wikipedia base chip + verified suffix-variant pattern (OEM suffixes Ultra/Ultimate/Max/Pro/Plus/Turbo/Energy/Super/Extreme share the base silicon; verified cases: Dimensity 7200 Pro=MT6886, 7300 Energy=MT6878, 7300 Pro=MT6878, 7400 Turbo=MT6878, 7500 Turbo=MT6881, 7350 Pro=MT6886, 8350 Extreme=MT6897, 6360 Max=MT6835, 7025 Ultra=MT6855, 8100 Max/8000 Max=MT6895, 8100 Ultra=MT6895, 8200 Ultra=MT6896, 8300 Ultra=MT6897, 7200 Ultra=MT6886, Helio G92 Max=MT6769I, Helio G99 Ultra/Ultimate=G99)",
+   "nm": "4",
+   "cpu": "4x2.5 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G615 MC2"
+  },
+  "MediaTek Dimensity 7300e": {
+   "mt": "MT6858",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6858T, MT6858V/TZA",
+   "nm": "6",
+   "cpu": "4x2.5 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G610 MC2",
+   "note": "7300e is NOT MT6878 — it is the MT6858 part (same family as Dimensity 7100)."
+  },
+  "MediaTek Dimensity 7400": {
+   "mt": "MT6878",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6878V/TZA, MT6878V_B/TZA, MT6878V_C/TZA",
+   "nm": "4",
+   "cpu": "4x2.6 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G615 MC2",
+   "note": "CONFLICT RESOLVED: mtk_2026_coverage.py said MT6879 — wrong; Wikipedia lists 7400 as MT6878 variants and MT6879 as Dimensity 1050. DB note (X6876) saying MT6878 was correct."
+  },
+  "MediaTek Dimensity 7400 Turbo": {
+   "mt": "MT6878",
+   "source": "Geekbench listing (Vivo V80 FE, Dimensity 7400-Turbo = MT6878) + DeviceInfo.app (reports as MT6878k); Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6878k",
+   "nm": "4",
+   "cpu": "4x2.6 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G615 MC2"
+  },
+  "MediaTek Dimensity 7400 Ultimate": {
+   "mt": "MT6878",
+   "source": "Wikipedia base chip + verified suffix-variant pattern (OEM suffixes Ultra/Ultimate/Max/Pro/Plus/Turbo/Energy/Super/Extreme share the base silicon; verified cases: Dimensity 7200 Pro=MT6886, 7300 Energy=MT6878, 7300 Pro=MT6878, 7400 Turbo=MT6878, 7500 Turbo=MT6881, 7350 Pro=MT6886, 8350 Extreme=MT6897, 6360 Max=MT6835, 7025 Ultra=MT6855, 8100 Max/8000 Max=MT6895, 8100 Ultra=MT6895, 8200 Ultra=MT6896, 8300 Ultra=MT6897, 7200 Ultra=MT6886, Helio G92 Max=MT6769I, Helio G99 Ultra/Ultimate=G99)",
+   "nm": "4",
+   "cpu": "4x2.6 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G615 MC2"
+  },
+  "MediaTek Dimensity 7400 Ultra": {
+   "mt": "MT6878",
+   "source": "Wikipedia base chip + verified suffix-variant pattern (OEM suffixes Ultra/Ultimate/Max/Pro/Plus/Turbo/Energy/Super/Extreme share the base silicon; verified cases: Dimensity 7200 Pro=MT6886, 7300 Energy=MT6878, 7300 Pro=MT6878, 7400 Turbo=MT6878, 7500 Turbo=MT6881, 7350 Pro=MT6886, 8350 Extreme=MT6897, 6360 Max=MT6835, 7025 Ultra=MT6855, 8100 Max/8000 Max=MT6895, 8100 Ultra=MT6895, 8200 Ultra=MT6896, 8300 Ultra=MT6897, 7200 Ultra=MT6886, Helio G92 Max=MT6769I, Helio G99 Ultra/Ultimate=G99)",
+   "nm": "4",
+   "cpu": "4x2.6 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G615 MC2"
+  },
+  "MediaTek Dimensity 7500 Turbo": {
+   "mt": "MT6881",
+   "source": "91mobiles (7500 Turbo Model No MT6881); Wikipedia Dimensity 7500 = MT6881",
+   "nm": "4",
+   "cpu": "4x2.6 GHz C1-Pro + 4x2.0 GHz C1-Nano",
+   "gpu": "Mali-G625 MC2"
+  },
+  "MediaTek Dimensity 800U": {
+   "mt": "MT6853",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6853T, MT6853V/TNZA",
+   "nm": "7",
+   "cpu": "2x2.4 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC3"
+  },
+  "MediaTek Dimensity 8020": {
+   "mt": "MT6891",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "6",
+   "cpu": "4x2.6 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G77 MC9",
+   "note": "Wikipedia: Dimensity 1100 renamed."
+  },
+  "MediaTek Dimensity 8020 (see conflict)": {
+   "mt": "MT6891",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "6",
+   "cpu": "4x2.6 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G77 MC9",
+   "note": "Wikipedia: Dimensity 1100 renamed."
+  },
+  "MediaTek Dimensity 8050": {
+   "mt": "MT6893",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "6",
+   "cpu": "1x3.0 GHz Cortex-A78 + 3x2.6 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G77 MC9",
+   "note": "Wikipedia: Dimensity 1300 renamed (= MT6893). CONFLICT: DB notes (X6710/CK8n/CK9n/AD11) assume 'D8050/MT6896 class' — wrong per Wikipedia."
+  },
+  "MediaTek Dimensity 810": {
+   "mt": "MT6833",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6833P, MT6833GP, MT6833V/PNZA",
+   "nm": "6",
+   "cpu": "2x2.4 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "MediaTek Dimensity 8100": {
+   "mt": "MT6895",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6895, MT6895Z/TCZA, MT6895Z_A/TCZA, MT6895Z_B/TCZA, MT6895ZB, MT8795Z/TNZA",
+   "nm": "5",
+   "cpu": "4x2.85 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G610 MC6"
+  },
+  "MediaTek Dimensity 8100 Ultra": {
+   "mt": "MT6895",
+   "source": "DeviceInfo.app (8100 Ultra reports as MT6895a); Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6895a",
+   "nm": "5",
+   "cpu": "4x2.85 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G610 MC6"
+  },
+  "MediaTek Dimensity 820": {
+   "mt": "MT6875",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "7",
+   "cpu": "4x2.6 GHz Cortex-A76 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC5"
+  },
+  "MediaTek Dimensity 8200": {
+   "mt": "MT6896",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6896, MT6896Z/CZA, MT6896Z_B/CZA",
+   "nm": "4",
+   "cpu": "1x3.1 GHz Cortex-A78 + 3x3.0 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G610 MC6",
+   "note": "CONFLICT: mtk_2026_coverage.py maps 8200 to MT6895 and 8000/8100 to MT6896 — Wikipedia has it the other way round (8200 = MT6896, 8000/8100 = MT6895). DB note PHV110 already flagged this as a naming conflict."
+  },
+  "MediaTek Dimensity 8200 Ultra": {
+   "mt": "MT6896",
+   "source": "Once Human official requirements (Dimensity 8200 Ultra = MT6896ZB/64-bit); Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6896ZB",
+   "nm": "4",
+   "cpu": "1x3.1 GHz Cortex-A78 + 3x3.0 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G610 MC6"
+  },
+  "MediaTek Dimensity 8300 Ultra": {
+   "mt": "MT6897",
+   "source": "Once Human official requirements (Dimensity 8300 Ultra = MT6897/64-bit); Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "4",
+   "cpu": "1x3.35 GHz Cortex-A715 + 3x3.2 GHz Cortex-A715 + 4x2.2 GHz Cortex-A510",
+   "gpu": "Mali-G615 MC6"
+  },
+  "MediaTek Dimensity 8400 Ultra": {
+   "mt": "MT6899",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05); NanoReview ('Dimensity 8400 Ultra is the same chip as Dimensity 8400')",
+   "nm": "4",
+   "cpu": "1x3.25 GHz Cortex-A725 + 3x3.0 GHz Cortex-A725 + 4x2.1 GHz Cortex-A725",
+   "gpu": "Mali-G720 MC7"
+  },
+  "MediaTek Dimensity 900": {
+   "mt": "MT6877",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6877, MT6877V/ZA",
+   "nm": "6",
+   "cpu": "2x2.4 GHz Cortex-A78 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G68 MC4"
+  },
+  "MediaTek Dimensity 9000": {
+   "mt": "MT6983",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6983, MT6983Z/CZA, MT8798, MT8798Z/CNZA",
+   "nm": "4",
+   "cpu": "1x3.05 GHz Cortex-X2 + 3x2.85 GHz Cortex-A710 + 4x1.8 GHz Cortex-A510",
+   "gpu": "Mali-G710 MC10"
+  },
+  "MediaTek Dimensity 9000+": {
+   "mt": "MT6983",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6983, MT6983W/CZA, MT8798, MT8798Z/TNZA",
+   "nm": "4",
+   "cpu": "1x3.2 GHz Cortex-X2 + 3x2.85 GHz Cortex-A710 + 4x1.8 GHz Cortex-A510",
+   "gpu": "Mali-G710 MC10"
+  },
+  "MediaTek Dimensity 920": {
+   "mt": "MT6877",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6877, MT6877T, MT6877V/TZA",
+   "nm": "6",
+   "cpu": "2x2.5 GHz Cortex-A78 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G68 MC4"
+  },
+  "MediaTek Dimensity 9200": {
+   "mt": "MT6985",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6985, MT6985W/CZA",
+   "nm": "4",
+   "cpu": "1x3.05 GHz Cortex-X3 + 3x2.85 GHz Cortex-A715 + 4x1.8 GHz Cortex-A510",
+   "gpu": "Immortalis-G715 MC11"
+  },
+  "MediaTek Dimensity 9200+": {
+   "mt": "MT6985",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6985, MT6985W/TCZA",
+   "nm": "4",
+   "cpu": "1x3.35 GHz Cortex-X3 + 3x3.0 GHz Cortex-A715 + 4x2.0 GHz Cortex-A510",
+   "gpu": "Immortalis-G715 MC11"
+  },
+  "MediaTek Dimensity 930": {
+   "mt": "MT6855",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6855, MT6855G, MT6855V/AZA",
+   "nm": "6",
+   "cpu": "2x2.2 GHz Cortex-A78 + 6x2.0 GHz Cortex-A55",
+   "gpu": "IMG BXM-8-256"
+  },
+  "MediaTek Dimensity 9300": {
+   "mt": "MT6989",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6989, MT6989W/CZA, MT8796W/CNZA",
+   "nm": "4",
+   "cpu": "1x3.25 GHz Cortex-X4 + 3x2.85 GHz Cortex-X4 + 4x2.0 GHz Cortex-A720",
+   "gpu": "Immortalis-G720 MC12"
+  },
+  "MediaTek Dimensity 9300+": {
+   "mt": "MT6989",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6989, MT6989W/TCZA, MT8796W/TNZA",
+   "nm": "4",
+   "cpu": "1x3.4 GHz Cortex-X4 + 3x2.85 GHz Cortex-X4 + 4x2.0 GHz Cortex-A720",
+   "gpu": "Immortalis-G720 MC12"
+  },
+  "MediaTek Dimensity 9300+ (same platform as X200 FE; S30 Pro mini is its twin — Notebookcheck notes X200 FE is “exact replica of S30 Pro mini”)": {
+   "mt": "MT6989",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6989, MT6989W/TCZA, MT8796W/TNZA",
+   "nm": "4",
+   "cpu": "1x3.4 GHz Cortex-X4 + 3x2.85 GHz Cortex-X4 + 4x2.0 GHz Cortex-A720",
+   "gpu": "Immortalis-G720 MC12"
+  },
+  "MediaTek Dimensity 9400": {
+   "mt": "MT6991",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6991, MT6991Z/CZA, MT6991Z/CZB, MT6991W/CZA",
+   "nm": "3",
+   "cpu": "1x3.62 GHz Cortex-X925 + 3x3.3 GHz Cortex-X4 + 4x2.4 GHz Cortex-A720",
+   "gpu": "Immortalis-G925 MC12"
+  },
+  "MediaTek Dimensity 9400+": {
+   "mt": "MT6991",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6991, MT6991Z/TCZA, MT6991Z/TCZB, MT8799Z/TNZB",
+   "nm": "3",
+   "cpu": "1x3.73 GHz Cortex-X925 + 3x3.3 GHz Cortex-X4 + 4x2.4 GHz Cortex-A720",
+   "gpu": "Immortalis-G925 MC12"
+  },
+  "MediaTek Dimensity 9500": {
+   "mt": "MT6993",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05); NanoReview (9500 CPU: 1x4.21 GHz C1-Ultra + 3x3.5 GHz C1-Premium + 4x2.7 GHz C1-Pro)",
+   "variant": "MT6993, MT6993W/CZA",
+   "nm": "3",
+   "cpu": "1x4.21 GHz C1-Ultra + 3x3.5 GHz C1-Premium + 4x2.7 GHz C1-Pro",
+   "gpu": "Mali G1-Ultra MC12"
+  },
+  "MediaTek Helio A20": {
+   "mt": "MT6761",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6761V/WE",
+   "nm": "12",
+   "cpu": "4x1.8 GHz Cortex-A53",
+   "gpu": "PowerVR GE8300"
+  },
+  "MediaTek Helio A20 (MT6761D)": {
+   "mt": "MT6761",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6761V/WE",
+   "nm": "12",
+   "cpu": "4x1.8 GHz Cortex-A53",
+   "gpu": "PowerVR GE8300"
+  },
+  "MediaTek Helio A22": {
+   "mt": "MT6761",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6761V/WAB, MT6761V/WBB",
+   "nm": "12",
+   "cpu": "4x2.0 GHz Cortex-A53",
+   "gpu": "PowerVR GE8300"
+  },
+  "MediaTek Helio A22 (MT6761)": {
+   "mt": "MT6761",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6761V/WAB, MT6761V/WBB",
+   "nm": "12",
+   "cpu": "4x2.0 GHz Cortex-A53",
+   "gpu": "PowerVR GE8300"
+  },
+  "MediaTek Helio A25": {
+   "mt": "MT6762",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6762V/WB, MT6762V/WD",
+   "nm": "12",
+   "cpu": "4x1.8 GHz Cortex-A53 + 4x1.5 GHz Cortex-A53",
+   "gpu": "PowerVR GE8320"
+  },
+  "MediaTek Helio G100": {
+   "mt": "MT6789H",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6789H, MT6789I, MT6789J",
+   "nm": "6",
+   "cpu": "2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "MediaTek Helio G100 Ultra": {
+   "mt": "MT6789H",
+   "source": "Wikipedia base chip + verified suffix-variant pattern (OEM suffixes Ultra/Ultimate/Max/Pro/Plus/Turbo/Energy/Super/Extreme share the base silicon; verified cases: Dimensity 7200 Pro=MT6886, 7300 Energy=MT6878, 7300 Pro=MT6878, 7400 Turbo=MT6878, 7500 Turbo=MT6881, 7350 Pro=MT6886, 8350 Extreme=MT6897, 6360 Max=MT6835, 7025 Ultra=MT6855, 8100 Max/8000 Max=MT6895, 8100 Ultra=MT6895, 8200 Ultra=MT6896, 8300 Ultra=MT6897, 7200 Ultra=MT6886, Helio G92 Max=MT6769I, Helio G99 Ultra/Ultimate=G99)",
+   "variant": "MT6789H, MT6789I, MT6789J",
+   "nm": "6",
+   "cpu": "2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "MediaTek Helio G25": {
+   "mt": "MT6762G",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "12",
+   "cpu": "4x2.0 GHz Cortex-A53 + 4x1.5 GHz Cortex-A53",
+   "gpu": "PowerVR GE8320"
+  },
+  "MediaTek Helio G25 (MT6762G)": {
+   "mt": "MT6762G",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "12",
+   "cpu": "4x2.0 GHz Cortex-A53 + 4x1.5 GHz Cortex-A53",
+   "gpu": "PowerVR GE8320"
+  },
+  "MediaTek Helio G35": {
+   "mt": "MT6765G",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6765G, MT6765V/CB",
+   "nm": "12",
+   "cpu": "4x2.3 GHz Cortex-A53 + 4x1.8 GHz Cortex-A53",
+   "gpu": "PowerVR GE8320"
+  },
+  "MediaTek Helio G36": {
+   "mt": "MT6765V",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6765V/XAA, MT6765V/XBA",
+   "nm": "12",
+   "cpu": "4x2.2 GHz Cortex-A53 + 4x1.6 GHz Cortex-A53",
+   "note": "Wikipedia G36 row lists no GPU."
+  },
+  "MediaTek Helio G37": {
+   "mt": "MT6765H",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "12",
+   "cpu": "4x2.3 GHz Cortex-A53 + 4x1.8 GHz Cortex-A53",
+   "note": "Wikipedia G37 row lists no GPU."
+  },
+  "MediaTek Helio G50": {
+   "mt": "MT6765V",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05); NanoReview (GPU PowerVR GE8320)",
+   "nm": "12",
+   "cpu": "4x2.2 GHz Cortex-A53 + 4x1.7 GHz Cortex-A53",
+   "gpu": "PowerVR GE8320"
+  },
+  "MediaTek Helio G50 Ultimate": {
+   "mt": "MT6765V",
+   "source": "Wikipedia base chip + verified suffix-variant pattern (OEM suffixes Ultra/Ultimate/Max/Pro/Plus/Turbo/Energy/Super/Extreme share the base silicon; verified cases: Dimensity 7200 Pro=MT6886, 7300 Energy=MT6878, 7300 Pro=MT6878, 7400 Turbo=MT6878, 7500 Turbo=MT6881, 7350 Pro=MT6886, 8350 Extreme=MT6897, 6360 Max=MT6835, 7025 Ultra=MT6855, 8100 Max/8000 Max=MT6895, 8100 Ultra=MT6895, 8200 Ultra=MT6896, 8300 Ultra=MT6897, 7200 Ultra=MT6886, Helio G92 Max=MT6769I, Helio G99 Ultra/Ultimate=G99)",
+   "nm": "12",
+   "cpu": "4x2.2 GHz Cortex-A53 + 4x1.7 GHz Cortex-A53",
+   "gpu": "PowerVR GE8320"
+  },
+  "MediaTek Helio G70": {
+   "mt": "MT6769",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6769V/CB",
+   "nm": "12",
+   "cpu": "2x2.0 GHz Cortex-A75 + 6x1.7 GHz Cortex-A55",
+   "gpu": "Mali-G52 MC2",
+   "note": "Verified on Wikipedia (parent flagged 'verify'): G70 is MT6769-family, variant MT6769V/CB."
+  },
+  "MediaTek Helio G80": {
+   "mt": "MT6769",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6769T, MT6769V/CT, MT6769V/CU",
+   "nm": "12",
+   "cpu": "2x2.0 GHz Cortex-A75 + 6x1.8 GHz Cortex-A55",
+   "gpu": "Mali-G52 MC2"
+  },
+  "MediaTek Helio G81": {
+   "mt": "MT6769",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6769J, MT6769L, MT6769S",
+   "nm": "12",
+   "cpu": "2x2.0 GHz Cortex-A75 + 6x1.7 GHz Cortex-A55",
+   "gpu": "Mali-G52 MC2"
+  },
+  "MediaTek Helio G85": {
+   "mt": "MT6769",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6769Z, MT6769V/CZ",
+   "nm": "12",
+   "cpu": "2x2.0 GHz Cortex-A75 + 6x1.8 GHz Cortex-A55",
+   "gpu": "Mali-G52 MC2"
+  },
+  "MediaTek Helio G85 (may be regional re-listing of X6819)": {
+   "mt": "MT6769",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6769Z, MT6769V/CZ",
+   "nm": "12",
+   "cpu": "2x2.0 GHz Cortex-A75 + 6x1.8 GHz Cortex-A55",
+   "gpu": "Mali-G52 MC2"
+  },
+  "MediaTek Helio G88": {
+   "mt": "MT6769",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6769H",
+   "nm": "12",
+   "note": "Wikipedia G88 row lists no CPU/GPU."
+  },
+  "MediaTek Helio G90T": {
+   "mt": "MT6785",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6785V/CC",
+   "nm": "12",
+   "cpu": "2x2.05 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G76 MC4"
+  },
+  "MediaTek Helio G91 Ultra": {
+   "mt": "MT6769",
+   "source": "Wikipedia Helio G91 (MT6769G/K); Versus.com + All Techno comparison (G91 Ultra CPU/GPU)",
+   "variant": "MT6769G, MT6769K",
+   "nm": "12",
+   "cpu": "2x2.0 GHz Cortex-A75 + 6x1.8 GHz Cortex-A55",
+   "gpu": "Mali-G52 MC2"
+  },
+  "MediaTek Helio G95": {
+   "mt": "MT6785",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6785V/CD",
+   "nm": "12",
+   "cpu": "2x2.05 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G76 MC4"
+  },
+  "MediaTek Helio G95 (PH variant reported G90T)": {
+   "mt": "MT6785",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6785V/CD",
+   "nm": "12",
+   "cpu": "2x2.05 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G76 MC4",
+   "note": "PH variant reported as G90T, but G90T is also MT6785 — same MT either way."
+  },
+  "MediaTek Helio G96": {
+   "mt": "MT6781",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6781, MT6781V/CD",
+   "nm": "12",
+   "cpu": "2x2.05 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "MediaTek Helio G96 (parts-listing source, weaker)": {
+   "mt": "MT6781",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6781, MT6781V/CD",
+   "nm": "12",
+   "cpu": "2x2.05 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "MediaTek Helio G99": {
+   "mt": "MT6789",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6789, MT6789G, MT6789U, MT6789V/CD, MT8781",
+   "nm": "6",
+   "cpu": "2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "MediaTek Helio G99 (X6833B suffix variant unverified, not separate row)": {
+   "mt": "MT6789",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6789, MT6789G, MT6789U, MT6789V/CD, MT8781",
+   "nm": "6",
+   "cpu": "2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "MediaTek Helio G99 (weaker source)": {
+   "mt": "MT6789",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6789, MT6789G, MT6789U, MT6789V/CD, MT8781",
+   "nm": "6",
+   "cpu": "2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "MediaTek Helio G99 Ultimate": {
+   "mt": "MT6789",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05); NanoReview (G99 Ultimate is the same chip as G99)",
+   "nm": "6",
+   "cpu": "2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "MediaTek Helio G99 Ultra": {
+   "mt": "MT6789",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05); PhoneRanked (G99 'also listed as Helio G99 Ultra') + UMA Technology (G99-Ultra shares G99 CPU/GPU)",
+   "nm": "6",
+   "cpu": "2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "MediaTek Helio P22": {
+   "mt": "MT6762",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "12",
+   "cpu": "4x2.0 GHz Cortex-A53 + 4x1.5 GHz Cortex-A53",
+   "gpu": "PowerVR GE8320"
+  },
+  "MediaTek Helio P23": {
+   "mt": "MT6763",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6763, MT6763T",
+   "nm": "16",
+   "cpu": "4x2.3/2.5 GHz Cortex-A53 + 4x1.65 GHz Cortex-A53",
+   "gpu": "Mali-G71 MP2"
+  },
+  "MediaTek Helio P35": {
+   "mt": "MT6765",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "12",
+   "cpu": "4x2.3 GHz Cortex-A53 + 4x1.8 GHz Cortex-A53",
+   "gpu": "PowerVR GE8320"
+  },
+  "MediaTek Helio P35 (MT6765)": {
+   "mt": "MT6765",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "12",
+   "cpu": "4x2.3 GHz Cortex-A53 + 4x1.8 GHz Cortex-A53",
+   "gpu": "PowerVR GE8320"
+  },
+  "MediaTek Helio P60": {
+   "mt": "MT6771",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "12",
+   "cpu": "4x2.0 GHz Cortex-A73 + 4x2.0 GHz Cortex-A53",
+   "gpu": "Mali-G72 MP3"
+  },
+  "MediaTek Helio P65": {
+   "mt": "MT6768",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "12",
+   "cpu": "2x2.0 GHz Cortex-A75 + 6x1.7 GHz Cortex-A55",
+   "gpu": "Mali-G52 MC2"
+  },
+  "MediaTek Helio P70": {
+   "mt": "MT6771",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6771V/CT, MT6771V/WT",
+   "nm": "12",
+   "cpu": "4x2.1 GHz Cortex-A73 + 4x2.0 GHz Cortex-A53",
+   "gpu": "Mali-G72 MP3"
+  },
+  "MediaTek Helio X20": {
+   "mt": "MT6797",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "20",
+   "cpu": "2x2.1 GHz Cortex-A72 + 4x1.85 GHz Cortex-A53 + 4x1.4 GHz Cortex-A53",
+   "gpu": "Mali-T880 MP4"
+  },
+  "MediaTek MT6580": {
+   "mt": "MT6580",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "4x1.3 GHz Cortex-A7",
+   "gpu": "Mali-400 MP1"
+  },
+  "MediaTek MT6580 (unconfirmed in source)": {
+   "mt": "MT6580",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "4x1.3 GHz Cortex-A7",
+   "gpu": "Mali-400 MP1"
+  },
+  "MediaTek MT6580M": {
+   "mt": "MT6580M",
+   "source": "DB chipset string itself (already an MT part number)"
+  },
+  "MediaTek MT6580P": {
+   "mt": "MT6580P",
+   "source": "DB chipset string itself (already an MT part number)"
+  },
+  "MediaTek MT6580W": {
+   "mt": "MT6580W",
+   "source": "DB chipset string itself (already an MT part number)"
+  },
+  "MediaTek MT6582": {
+   "mt": "MT6582",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "gpu": "Mali-400 MP2",
+   "note": "Wikipedia MT6582 row lists no CPU clock."
+  },
+  "MediaTek MT6582M": {
+   "mt": "MT6582M",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "gpu": "Mali-400 MP2"
+  },
+  "MediaTek MT6589": {
+   "mt": "MT6589",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "4x1.3 GHz Cortex-A7",
+   "gpu": "PowerVR SGX544MP"
+  },
+  "MediaTek MT6592": {
+   "mt": "MT6592",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "8x1.7-2.0 GHz Cortex-A7",
+   "gpu": "Mali-450 MP4"
+  },
+  "MediaTek MT6735": {
+   "mt": "MT6735",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "4x1.3 GHz Cortex-A53",
+   "gpu": "Mali-T720 MP2"
+  },
+  "MediaTek MT6735P": {
+   "mt": "MT6735P",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "4x1.0 GHz Cortex-A53",
+   "gpu": "Mali-T720 MP2"
+  },
+  "MediaTek MT6737": {
+   "mt": "MT6737",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "4x1.1-1.3 GHz Cortex-A53",
+   "gpu": "Mali-T720 MP2"
+  },
+  "MediaTek MT6737T": {
+   "mt": "MT6737T",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "4x1.5 GHz Cortex-A53",
+   "gpu": "Mali-T720 MP2"
+  },
+  "MediaTek MT6739": {
+   "mt": "MT6739",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "gpu": "PowerVR GE8100",
+   "note": "Wikipedia MT6739 row lists no CPU clock."
+  },
+  "MediaTek MT6739WA": {
+   "mt": "MT6739WA",
+   "source": "DB chipset string itself (already an MT part number)"
+  },
+  "MediaTek MT6739WW": {
+   "mt": "MT6739WW",
+   "source": "DB chipset string itself (already an MT part number)"
+  },
+  "MediaTek MT6750": {
+   "mt": "MT6750",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "4x1.5 GHz Cortex-A53 + 4x1.0 GHz Cortex-A53",
+   "gpu": "Mali-T860 MP2"
+  },
+  "MediaTek MT6750T": {
+   "mt": "MT6750T",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "4x1.5 GHz Cortex-A53 + 4x1.0 GHz Cortex-A53",
+   "gpu": "Mali-T860 MP2"
+  },
+  "MediaTek MT6752": {
+   "mt": "MT6752",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "8x1.7 GHz Cortex-A53",
+   "gpu": "Mali-T760 MP2"
+  },
+  "MediaTek MT6753": {
+   "mt": "MT6753",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "4x1.5 GHz Cortex-A53 + 4x1.3 GHz Cortex-A53",
+   "gpu": "Mali-T720 MP3"
+  },
+  "MediaTek MT6753T": {
+   "mt": "MT6753T",
+   "source": "DB chipset string itself (already an MT part number)"
+  },
+  "Dimensity 6100": {
+   "mt": "MT6835",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6835, MT6835V/ZA, MT8755V/TZB",
+   "nm": "6",
+   "cpu": "2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2",
+   "note": "'Plus' is the spelled-out form of '+'."
+  },
+  "Dimensity 6360": {
+   "mt": "MT6835",
+   "source": "DeviceInfo.app (Dimensity 6360 Max reports as MT6835c; 6nm, 2x2.4 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55); Wikipedia lists Dimensity 6360 with no part number",
+   "variant": "MT6835c",
+   "nm": "6",
+   "cpu": "2x2.4 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "note": "Wikipedia 6360 row has no part number; the Max variant's reported model code MT6835c settles the family."
+  },
+  "Dimensity 720 / Dimensity 800U": {
+   "mt": "MT6853",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "7",
+   "cpu": "2x2.0/2.4 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC3",
+   "note": "Variant split, but both chips are MT6853."
+  },
+  "Dimensity 7350": {
+   "mt": "MT6886",
+   "source": "91mobiles (7350 Pro Model No MT6886V) + DeviceInfo.app (reports as MT6886c); Wikipedia Dimensity 7350 = MT6886V/TCZA",
+   "variant": "MT6886V/TCZA",
+   "nm": "4",
+   "cpu": "2x3.0 GHz Cortex-A715 + 6x2.0 GHz Cortex-A510",
+   "gpu": "Mali-G610 MC4"
+  },
+  "Dimensity 7360": {
+   "mt": "MT6878",
+   "source": "Wikipedia Dimensity 7360 (MT6878V_G/ZA) + Smartprix spec match (7360 Max: 4x2.5 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55, Mali-G615, 4nm)",
+   "variant": "MT6878V_G/ZA",
+   "nm": "4",
+   "cpu": "4x2.5 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G615 MC2"
+  },
+  "Dimensity 8000": {
+   "mt": "MT6895",
+   "source": "Once Human official requirements (Dimensity 8000 Max = MT6895/64-bit); Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "5",
+   "cpu": "4x2.75 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G610 MC6"
+  },
+  "Dimensity 8100": {
+   "mt": "MT6895",
+   "source": "Once Human official requirements (Dimensity 8100 Max = MT6895/64-bit); Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "5",
+   "cpu": "4x2.85 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G610 MC6"
+  },
+  "Dimensity 8400": {
+   "mt": "MT6899",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05); Gizinfo/MyMobileGuru spec match (8400 Max: 1x3.25 + 3x3.0 + 4x2.1 GHz Cortex-A725, Mali-G720 MC7, 4nm — identical to Dimensity 8400)",
+   "nm": "4",
+   "cpu": "1x3.25 GHz Cortex-A725 + 3x3.0 GHz Cortex-A725 + 4x2.1 GHz Cortex-A725",
+   "gpu": "Mali-G720 MC7"
+  },
+  "Dimensity 8500": {
+   "mt": "MT6899",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05); GSMArena-spec listings (8500 Super: 1x3.4 + 3x3.2 + 4x2.2 GHz Cortex-A725, 4nm — identical to Dimensity 8500)",
+   "nm": "4",
+   "cpu": "1x3.4 GHz Cortex-A725 + 3x3.2 GHz Cortex-A725 + 4x2.2 GHz Cortex-A725",
+   "gpu": "Mali-G720 MC8"
+  },
+  "Dimensity 8550": {
+   "mt": "MT6899",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05); GSMArena-spec listings (8550 Super: 1x3.4 + 3x3.2 + 4x2.2 GHz Cortex-A725, 4nm — identical to Dimensity 8500/8550)",
+   "nm": "4",
+   "cpu": "1x3.4 GHz Cortex-A725 + 3x3.2 GHz Cortex-A725 + 4x2.2 GHz Cortex-A725",
+   "gpu": "Mali-G720 MC8"
+  },
+  "Dimensity 9400+": {
+   "mt": "MT6991",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6991, MT6991Z/TCZA, MT6991Z/TCZB, MT8799Z/TNZB",
+   "nm": "3",
+   "cpu": "1x3.73 GHz Cortex-X925 + 3x3.3 GHz Cortex-X4 + 4x2.4 GHz Cortex-A720",
+   "gpu": "Immortalis-G925 MC12",
+   "note": "'Plus' is the spelled-out form of '+'."
+  },
+  "Dimensity 9600": {
+   "mt": "MT6995",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6995, MT6995Z/CZB",
+   "nm": "2",
+   "cpu": "2x4.55 GHz C2-Ultra + 3x4.35 GHz C2-Pro + 3x3.1 GHz C2-Pro",
+   "gpu": "Mali G2-Ultra NX MC12"
+  },
+  "Helio A20": {
+   "mt": "MT6761",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6761V/WE",
+   "nm": "12",
+   "cpu": "4x1.8 GHz Cortex-A53",
+   "gpu": "PowerVR GE8300"
+  },
+  "Helio G92": {
+   "mt": "MT6769",
+   "source": "CPU-Boss + NanoReview + Radargit + 91mobiles (G92 Max = MT6769I); Wikipedia Helio G92 = MT6769I",
+   "variant": "MT6769I",
+   "nm": "12",
+   "cpu": "2x2.0 GHz Cortex-A75 + 6x1.8 GHz Cortex-A55",
+   "gpu": "Mali-G52 MC2"
+  },
+  "Helio P20": {
+   "mt": "MT6757",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6757CD",
+   "nm": "16",
+   "cpu": "4x2.3 GHz Cortex-A53 + 4x1.6 GHz Cortex-A53",
+   "gpu": "Mali-T880 MP2",
+   "note": "CONFLICT: string says P20 but embeds MT6757CD, which is the P25 part (P20 = MT6757). Base MT6757 either way."
+  },
+  "Helio P60 (Global) / Helio P70": {
+   "mt": "MT6771",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "12",
+   "cpu": "4x2.0/2.1 GHz Cortex-A73 + 4x2.0 GHz Cortex-A53",
+   "gpu": "Mali-G72 MP3",
+   "note": "Variant split, but both chips are MT6771."
+  },
+  "MT6580A": {
+   "mt": "MT6580A",
+   "source": "DB chipset string itself (already an MT part number)",
+   "note": "CONFLICT in DB string: MobileWithDrivers claims MT6580P for this model — primary token MT6580A kept."
+  },
+  "MT6737": {
+   "mt": "MT6737",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "4x1.1-1.3 GHz Cortex-A53",
+   "gpu": "Mali-T720 MP2",
+   "note": "CONFLICT in DB string: Spec411 claims MT6737W — primary token MT6737 kept."
+  },
+  "Dimensity 7200": {
+   "mt": "MT6886",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6886, MT6886V_A/CZA, MT6886V_B/CZA",
+   "nm": "4",
+   "cpu": "2x2.8 GHz Cortex-A715 + 6x2.0 GHz Cortex-A510",
+   "gpu": "Mali-G610 MC4"
+  },
+  "Dimensity 7200 Pro": {
+   "mt": "MT6886",
+   "source": "USPTO patent filing table (Daedalus Prime v. MediaTek: Dimensity 7200 Pro = MT6886) + 91mobiles (Model No MT6886) + Android Multi Tool log on Nothing Phone (2a): ChipId MT6886",
+   "nm": "4",
+   "cpu": "2x2.8 GHz Cortex-A715 + 6x2.0 GHz Cortex-A510",
+   "gpu": "Mali-G610 MC4",
+   "note": "CONFLICT: DB string embeds (MT6878) — wrong; 7200 Pro is MT6886 (3 sources)."
+  },
+  "Dimensity 7200 Ultra": {
+   "mt": "MT6886",
+   "source": "Once Human official requirements (Dimensity 7200 Ultra = MT6886/64-bit); Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "4",
+   "cpu": "2x2.8 GHz Cortex-A715 + 6x2.0 GHz Cortex-A510",
+   "gpu": "Mali-G610 MC4"
+  },
+  "Dimensity 7300 Ultra": {
+   "mt": "MT6878",
+   "source": "Wikipedia base chip + verified suffix-variant pattern (OEM suffixes Ultra/Ultimate/Max/Pro/Plus/Turbo/Energy/Super/Extreme share the base silicon; verified cases: Dimensity 7200 Pro=MT6886, 7300 Energy=MT6878, 7300 Pro=MT6878, 7400 Turbo=MT6878, 7500 Turbo=MT6881, 7350 Pro=MT6886, 8350 Extreme=MT6897, 6360 Max=MT6835, 7025 Ultra=MT6855, 8100 Max/8000 Max=MT6895, 8100 Ultra=MT6895, 8200 Ultra=MT6896, 8300 Ultra=MT6897, 7200 Ultra=MT6886, Helio G92 Max=MT6769I, Helio G99 Ultra/Ultimate=G99)",
+   "nm": "4",
+   "cpu": "4x2.5 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G615 MC2"
+  },
+  "Dimensity 7300e": {
+   "mt": "MT6858",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6858T, MT6858V/TZA",
+   "nm": "6",
+   "cpu": "4x2.5 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G610 MC2",
+   "note": "7300e is NOT MT6878 — it is the MT6858 part (same family as Dimensity 7100)."
+  },
+  "Dimensity 7400 Turbo": {
+   "mt": "MT6878",
+   "source": "Geekbench listing (Vivo V80 FE, Dimensity 7400-Turbo = MT6878) + DeviceInfo.app (reports as MT6878k); Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6878k",
+   "nm": "4",
+   "cpu": "4x2.6 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G615 MC2"
+  },
+  "Dimensity 7400 Ultra": {
+   "mt": "MT6878",
+   "source": "Wikipedia base chip + verified suffix-variant pattern (OEM suffixes Ultra/Ultimate/Max/Pro/Plus/Turbo/Energy/Super/Extreme share the base silicon; verified cases: Dimensity 7200 Pro=MT6886, 7300 Energy=MT6878, 7300 Pro=MT6878, 7400 Turbo=MT6878, 7500 Turbo=MT6881, 7350 Pro=MT6886, 8350 Extreme=MT6897, 6360 Max=MT6835, 7025 Ultra=MT6855, 8100 Max/8000 Max=MT6895, 8100 Ultra=MT6895, 8200 Ultra=MT6896, 8300 Ultra=MT6897, 7200 Ultra=MT6886, Helio G92 Max=MT6769I, Helio G99 Ultra/Ultimate=G99)",
+   "nm": "4",
+   "cpu": "4x2.6 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G615 MC2"
+  },
+  "Dimensity 7500 Turbo": {
+   "mt": "MT6881",
+   "source": "91mobiles (7500 Turbo Model No MT6881); Wikipedia Dimensity 7500 = MT6881",
+   "nm": "4",
+   "cpu": "4x2.6 GHz C1-Pro + 4x2.0 GHz C1-Nano",
+   "gpu": "Mali-G625 MC2"
+  },
+  "Dimensity 7500": {
+   "mt": "MT6881",
+   "source": "91mobiles (7500 Turbo Model No MT6881); Wikipedia Dimensity 7500 = MT6881",
+   "nm": "4",
+   "cpu": "4x2.6 GHz C1-Pro + 4x2.0 GHz C1-Nano",
+   "gpu": "Mali-G625 MC2"
+  },
+  "Dimensity 8100 Ultra": {
+   "mt": "MT6895",
+   "source": "DeviceInfo.app (8100 Ultra reports as MT6895a); Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6895a",
+   "nm": "5",
+   "cpu": "4x2.85 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G610 MC6"
+  },
+  "Dimensity 820": {
+   "mt": "MT6875",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "7",
+   "cpu": "4x2.6 GHz Cortex-A76 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC5"
+  },
+  "Dimensity 8200 Ultra": {
+   "mt": "MT6896",
+   "source": "Once Human official requirements (Dimensity 8200 Ultra = MT6896ZB/64-bit); Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6896ZB",
+   "nm": "4",
+   "cpu": "1x3.1 GHz Cortex-A78 + 3x3.0 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G610 MC6"
+  },
+  "Dimensity 8300 Ultra": {
+   "mt": "MT6897",
+   "source": "Once Human official requirements (Dimensity 8300 Ultra = MT6897/64-bit); Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "4",
+   "cpu": "1x3.35 GHz Cortex-A715 + 3x3.2 GHz Cortex-A715 + 4x2.2 GHz Cortex-A510",
+   "gpu": "Mali-G615 MC6"
+  },
+  "Dimensity 8300": {
+   "mt": "MT6897",
+   "source": "Once Human official requirements (Dimensity 8300 Ultra = MT6897/64-bit); Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "4",
+   "cpu": "1x3.35 GHz Cortex-A715 + 3x3.2 GHz Cortex-A715 + 4x2.2 GHz Cortex-A510",
+   "gpu": "Mali-G615 MC6"
+  },
+  "Dimensity 8400 Ultra": {
+   "mt": "MT6899",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05); NanoReview ('Dimensity 8400 Ultra is the same chip as Dimensity 8400')",
+   "nm": "4",
+   "cpu": "1x3.25 GHz Cortex-A725 + 3x3.0 GHz Cortex-A725 + 4x2.1 GHz Cortex-A725",
+   "gpu": "Mali-G720 MC7"
+  },
+  "Dimensity 9300+": {
+   "mt": "MT6989",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "variant": "MT6989, MT6989W/TCZA, MT8796W/TNZA",
+   "nm": "4",
+   "cpu": "1x3.4 GHz Cortex-X4 + 3x2.85 GHz Cortex-X4 + 4x2.0 GHz Cortex-A720",
+   "gpu": "Immortalis-G720 MC12"
+  },
+  "Helio G100 Ultra": {
+   "mt": "MT6789H",
+   "source": "Wikipedia base chip + verified suffix-variant pattern (OEM suffixes Ultra/Ultimate/Max/Pro/Plus/Turbo/Energy/Super/Extreme share the base silicon; verified cases: Dimensity 7200 Pro=MT6886, 7300 Energy=MT6878, 7300 Pro=MT6878, 7400 Turbo=MT6878, 7500 Turbo=MT6881, 7350 Pro=MT6886, 8350 Extreme=MT6897, 6360 Max=MT6835, 7025 Ultra=MT6855, 8100 Max/8000 Max=MT6895, 8100 Ultra=MT6895, 8200 Ultra=MT6896, 8300 Ultra=MT6897, 7200 Ultra=MT6886, Helio G92 Max=MT6769I, Helio G99 Ultra/Ultimate=G99)",
+   "variant": "MT6789H, MT6789I, MT6789J",
+   "nm": "6",
+   "cpu": "2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "Helio G50": {
+   "mt": "MT6765V",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05); NanoReview (GPU PowerVR GE8320)",
+   "nm": "12",
+   "cpu": "4x2.2 GHz Cortex-A53 + 4x1.7 GHz Cortex-A53",
+   "gpu": "PowerVR GE8320"
+  },
+  "Helio G50 Ultimate": {
+   "mt": "MT6765V",
+   "source": "Wikipedia base chip + verified suffix-variant pattern (OEM suffixes Ultra/Ultimate/Max/Pro/Plus/Turbo/Energy/Super/Extreme share the base silicon; verified cases: Dimensity 7200 Pro=MT6886, 7300 Energy=MT6878, 7300 Pro=MT6878, 7400 Turbo=MT6878, 7500 Turbo=MT6881, 7350 Pro=MT6886, 8350 Extreme=MT6897, 6360 Max=MT6835, 7025 Ultra=MT6855, 8100 Max/8000 Max=MT6895, 8100 Ultra=MT6895, 8200 Ultra=MT6896, 8300 Ultra=MT6897, 7200 Ultra=MT6886, Helio G92 Max=MT6769I, Helio G99 Ultra/Ultimate=G99)",
+   "nm": "12",
+   "cpu": "4x2.2 GHz Cortex-A53 + 4x1.7 GHz Cortex-A53",
+   "gpu": "PowerVR GE8320"
+  },
+  "Helio G91 Ultra": {
+   "mt": "MT6769",
+   "source": "Wikipedia Helio G91 (MT6769G/K); Versus.com + All Techno comparison (G91 Ultra CPU/GPU)",
+   "variant": "MT6769G, MT6769K",
+   "nm": "12",
+   "cpu": "2x2.0 GHz Cortex-A75 + 6x1.8 GHz Cortex-A55",
+   "gpu": "Mali-G52 MC2"
+  },
+  "Helio G99 Ultra": {
+   "mt": "MT6789",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05); PhoneRanked (G99 'also listed as Helio G99 Ultra') + UMA Technology (G99-Ultra shares G99 CPU/GPU)",
+   "nm": "6",
+   "cpu": "2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55",
+   "gpu": "Mali-G57 MC2"
+  },
+  "Helio X20": {
+   "mt": "MT6797",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "20",
+   "cpu": "2x2.1 GHz Cortex-A72 + 4x1.85 GHz Cortex-A53 + 4x1.4 GHz Cortex-A53",
+   "gpu": "Mali-T880 MP4"
+  },
+  "MT6580P": {
+   "mt": "MT6580P",
+   "source": "DB chipset string itself (already an MT part number)"
+  },
+  "MT6580W": {
+   "mt": "MT6580W",
+   "source": "DB chipset string itself (already an MT part number)"
+  },
+  "MT6582M": {
+   "mt": "MT6582M",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "gpu": "Mali-400 MP2"
+  },
+  "MT6589": {
+   "mt": "MT6589",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "4x1.3 GHz Cortex-A7",
+   "gpu": "PowerVR SGX544MP"
+  },
+  "MT6592": {
+   "mt": "MT6592",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "8x1.7-2.0 GHz Cortex-A7",
+   "gpu": "Mali-450 MP4"
+  },
+  "MT6735": {
+   "mt": "MT6735",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "4x1.3 GHz Cortex-A53",
+   "gpu": "Mali-T720 MP2"
+  },
+  "MT6735P": {
+   "mt": "MT6735P",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "4x1.0 GHz Cortex-A53",
+   "gpu": "Mali-T720 MP2"
+  },
+  "MT6737T": {
+   "mt": "MT6737T",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "4x1.5 GHz Cortex-A53",
+   "gpu": "Mali-T720 MP2"
+  },
+  "MT6739": {
+   "mt": "MT6739",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "gpu": "PowerVR GE8100",
+   "note": "Wikipedia MT6739 row lists no CPU clock."
+  },
+  "MT6739WA": {
+   "mt": "MT6739WA",
+   "source": "DB chipset string itself (already an MT part number)"
+  },
+  "MT6739WW": {
+   "mt": "MT6739WW",
+   "source": "DB chipset string itself (already an MT part number)"
+  },
+  "MT6750": {
+   "mt": "MT6750",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "4x1.5 GHz Cortex-A53 + 4x1.0 GHz Cortex-A53",
+   "gpu": "Mali-T860 MP2"
+  },
+  "MT6752": {
+   "mt": "MT6752",
+   "source": "Wikipedia List of MediaTek systems on chips (en.wikipedia.org/wiki/List_of_MediaTek_systems_on_chips, page crawled 2026-11-05)",
+   "nm": "28",
+   "cpu": "8x1.7 GHz Cortex-A53",
+   "gpu": "Mali-T760 MP2"
+  },
+  "MT6753T": {
+   "mt": "MT6753T",
+   "source": "DB chipset string itself (already an MT part number)"
+  }
+ },
+ "non_mtk": {
+  "Exynos 1280": {
+   "vendor": "Samsung",
+   "chip": "Exynos 1280"
+  },
+  "Exynos 1330": {
+   "vendor": "Samsung",
+   "chip": "Exynos 1330"
+  },
+  "Exynos 1380": {
+   "vendor": "Samsung",
+   "chip": "Exynos 1380"
+  },
+  "Exynos 1480": {
+   "vendor": "Samsung",
+   "chip": "Exynos 1480"
+  },
+  "Exynos 1580": {
+   "vendor": "Samsung",
+   "chip": "Exynos 1580"
+  },
+  "Exynos 1610": {
+   "vendor": "Samsung",
+   "chip": "Exynos 1610"
+  },
+  "Exynos 1680": {
+   "vendor": "Samsung",
+   "chip": "Exynos 1680"
+  },
+  "Exynos 2100 / Snapdragon 888 (variants)": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 2100 / Snapdragon 888 (variants)"
+  },
+  "Exynos 2200 (intl.) / Snapdragon 8 Gen 1 (USA)": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 2200 (intl.) / Snapdragon 8 Gen 1 (USA)"
+  },
+  "Exynos 2200 / Snapdragon 8 Gen 1 (variants)": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 2200 / Snapdragon 8 Gen 1 (variants)"
+  },
+  "Exynos 2400": {
+   "vendor": "Samsung",
+   "chip": "Exynos 2400"
+  },
+  "Exynos 2400 (intl.) / Snapdragon 8 Gen 3 (US/CN)": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 2400 (intl.) / Snapdragon 8 Gen 3 (US/CN)"
+  },
+  "Exynos 2400e": {
+   "vendor": "Samsung",
+   "chip": "Exynos 2400e"
+  },
+  "Exynos 2500": {
+   "vendor": "Samsung",
+   "chip": "Exynos 2500"
+  },
+  "Exynos 2600": {
+   "vendor": "Samsung",
+   "chip": "Exynos 2600"
+  },
+  "Exynos 2600 / Snapdragon 8 Elite Gen 5": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 2600 / Snapdragon 8 Elite Gen 5"
+  },
+  "Exynos 3110": {
+   "vendor": "Samsung",
+   "chip": "Exynos 3110"
+  },
+  "Exynos 3475": {
+   "vendor": "Samsung",
+   "chip": "Exynos 3475"
+  },
+  "Exynos 4 Dual / TI OMAP4430 / Snapdragon S3 (variants)": {
+   "vendor": "Samsung / Texas Instruments / Qualcomm",
+   "chip": "Exynos 4 Dual / TI OMAP4430 / Snapdragon S3 (variants)"
+  },
+  "Exynos 4 Quad / Snapdragon S4 / Snapdragon 400 (variants)": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 4 Quad / Snapdragon S4 / Snapdragon 400 (variants)"
+  },
+  "Exynos 4210": {
+   "vendor": "Samsung",
+   "chip": "Exynos 4210"
+  },
+  "Exynos 4412 Quad": {
+   "vendor": "Samsung",
+   "chip": "Exynos 4412 Quad"
+  },
+  "Exynos 5 Hexa 5260": {
+   "vendor": "Samsung",
+   "chip": "Exynos 5 Hexa 5260"
+  },
+  "Exynos 5 Octa 5410 / Snapdragon 600": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 5 Octa 5410 / Snapdragon 600"
+  },
+  "Exynos 5 Octa 5420 / Snapdragon 800 (variants)": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 5 Octa 5420 / Snapdragon 800 (variants)"
+  },
+  "Exynos 5430 Octa": {
+   "vendor": "Samsung",
+   "chip": "Exynos 5430 Octa"
+  },
+  "Exynos 5433 / Snapdragon 805 (variants)": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 5433 / Snapdragon 805 (variants)"
+  },
+  "Exynos 7 Octa 7420": {
+   "vendor": "Samsung",
+   "chip": "Exynos 7 Octa 7420"
+  },
+  "Exynos 7570": {
+   "vendor": "Samsung",
+   "chip": "Exynos 7570"
+  },
+  "Exynos 7578": {
+   "vendor": "Samsung",
+   "chip": "Exynos 7578"
+  },
+  "Exynos 7580": {
+   "vendor": "Samsung",
+   "chip": "Exynos 7580"
+  },
+  "Exynos 7870": {
+   "vendor": "Samsung",
+   "chip": "Exynos 7870"
+  },
+  "Exynos 7870 Octa": {
+   "vendor": "Samsung",
+   "chip": "Exynos 7870 Octa"
+  },
+  "Exynos 7880 Octa": {
+   "vendor": "Samsung",
+   "chip": "Exynos 7880 Octa"
+  },
+  "Exynos 7904": {
+   "vendor": "Samsung",
+   "chip": "Exynos 7904"
+  },
+  "Exynos 850": {
+   "vendor": "Samsung",
+   "chip": "Exynos 850"
+  },
+  "Exynos 8890": {
+   "vendor": "Samsung",
+   "chip": "Exynos 8890"
+  },
+  "Exynos 8890 / Snapdragon 820 (variants)": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 8890 / Snapdragon 820 (variants)"
+  },
+  "Exynos 8895 / Snapdragon 835 (variants)": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 8895 / Snapdragon 835 (variants)"
+  },
+  "Exynos 9611": {
+   "vendor": "Samsung",
+   "chip": "Exynos 9611"
+  },
+  "Exynos 980": {
+   "vendor": "Samsung",
+   "chip": "Exynos 980"
+  },
+  "Exynos 980 / Snapdragon 765G (variants)": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 980 / Snapdragon 765G (variants)"
+  },
+  "Exynos 9810": {
+   "vendor": "Samsung",
+   "chip": "Exynos 9810"
+  },
+  "Exynos 9810 / Snapdragon 845 (variants)": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 9810 / Snapdragon 845 (variants)"
+  },
+  "Exynos 9820 / Snapdragon 855 (variants)": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 9820 / Snapdragon 855 (variants)"
+  },
+  "Exynos 9825 / Snapdragon 855 (variants)": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 9825 / Snapdragon 855 (variants)"
+  },
+  "Exynos 990": {
+   "vendor": "Samsung",
+   "chip": "Exynos 990"
+  },
+  "Exynos 990 / Snapdragon 865 (variants)": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 990 / Snapdragon 865 (variants)"
+  },
+  "Exynos 990 / Snapdragon 865+ (variants)": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 990 / Snapdragon 865+ (variants)"
+  },
+  "Google Tensor": {
+   "vendor": "Google",
+   "chip": "Google Tensor"
+  },
+  "HiSilicon 8000 (aggregator claim, lower confidence)": {
+   "vendor": "HiSilicon",
+   "chip": "HiSilicon 8000 (aggregator claim, lower confidence)"
+  },
+  "Kirin 620": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 620"
+  },
+  "Kirin 655": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 655"
+  },
+  "Kirin 658": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 658"
+  },
+  "Kirin 659": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 659"
+  },
+  "Kirin 710": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 710"
+  },
+  "Kirin 710A": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 710A"
+  },
+  "Kirin 710F": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 710F"
+  },
+  "Kirin 8000": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 8000"
+  },
+  "Kirin 8000A": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 8000A"
+  },
+  "Kirin 8020": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 8020"
+  },
+  "Kirin 810": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 810"
+  },
+  "Kirin 820 5G": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 820 5G"
+  },
+  "Kirin 820E": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 820E"
+  },
+  "Kirin 830": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 830"
+  },
+  "Kirin 9000": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 9000"
+  },
+  "Kirin 9000E": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 9000E"
+  },
+  "Kirin 9000S": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 9000S"
+  },
+  "Kirin 9000S1": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 9000S1"
+  },
+  "Kirin 9010": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 9010"
+  },
+  "Kirin 9010S": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 9010S"
+  },
+  "Kirin 9010S (single-source, see conflicts)": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 9010S (single-source, see conflicts)"
+  },
+  "Kirin 9020": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 9020"
+  },
+  "Kirin 9030 Pro": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 9030 Pro"
+  },
+  "Kirin 960": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 960"
+  },
+  "Kirin 970": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 970"
+  },
+  "Kirin 980": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 980"
+  },
+  "Kirin 985": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 985"
+  },
+  "Kirin 985 4G": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 985 4G"
+  },
+  "Kirin 985 5G": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 985 5G"
+  },
+  "Kirin 990": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 990"
+  },
+  "Kirin 990 5G": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 990 5G"
+  },
+  "Kirin 990E": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 990E"
+  },
+  "NVIDIA Tegra 4": {
+   "vendor": "NVIDIA",
+   "chip": "NVIDIA Tegra 4"
+  },
+  "Qualcomm SM6225 Snapdragon 685": {
+   "vendor": "Qualcomm",
+   "chip": "SM6225 Snapdragon 685"
+  },
+  "Qualcomm Snapdragon 4 Gen 1": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 4 Gen 1"
+  },
+  "Qualcomm Snapdragon 4 Gen 2": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 4 Gen 2"
+  },
+  "Qualcomm Snapdragon 450": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 450"
+  },
+  "Qualcomm Snapdragon 460": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 460"
+  },
+  "Qualcomm Snapdragon 4s Gen 2": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 4s Gen 2"
+  },
+  "Qualcomm Snapdragon 6 Gen 1": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 6 Gen 1"
+  },
+  "Qualcomm Snapdragon 6 Gen 3": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 6 Gen 3"
+  },
+  "Qualcomm Snapdragon 600": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 600"
+  },
+  "Qualcomm Snapdragon 615": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 615"
+  },
+  "Qualcomm Snapdragon 616": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 616"
+  },
+  "Qualcomm Snapdragon 625": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 625"
+  },
+  "Qualcomm Snapdragon 626": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 626"
+  },
+  "Qualcomm Snapdragon 636": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 636"
+  },
+  "Qualcomm Snapdragon 650": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 650"
+  },
+  "Qualcomm Snapdragon 652": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 652"
+  },
+  "Qualcomm Snapdragon 653": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 653"
+  },
+  "Qualcomm Snapdragon 660": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 660"
+  },
+  "Qualcomm Snapdragon 662": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 662"
+  },
+  "Qualcomm Snapdragon 665": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 665"
+  },
+  "Qualcomm Snapdragon 675": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 675"
+  },
+  "Qualcomm Snapdragon 678": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 678"
+  },
+  "Qualcomm Snapdragon 680": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 680"
+  },
+  "Qualcomm Snapdragon 685": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 685"
+  },
+  "Qualcomm Snapdragon 695": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 695"
+  },
+  "Qualcomm Snapdragon 695 (6nm Qualcomm per Vivo PH listing)": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 695 (6nm Qualcomm per Vivo PH listing)"
+  },
+  "Qualcomm Snapdragon 6s Gen 3": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 6s Gen 3"
+  },
+  "Qualcomm Snapdragon 6s Gen 4": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 6s Gen 4"
+  },
+  "Qualcomm Snapdragon 7 Gen 1": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 7 Gen 1"
+  },
+  "Qualcomm Snapdragon 7 Gen 3": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 7 Gen 3"
+  },
+  "Qualcomm Snapdragon 7 Gen 4": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 7 Gen 4"
+  },
+  "Qualcomm Snapdragon 7+ Gen 2": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 7+ Gen 2"
+  },
+  "Qualcomm Snapdragon 710": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 710"
+  },
+  "Qualcomm Snapdragon 712": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 712"
+  },
+  "Qualcomm Snapdragon 720G": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 720G"
+  },
+  "Qualcomm Snapdragon 730": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 730"
+  },
+  "Qualcomm Snapdragon 730G": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 730G"
+  },
+  "Qualcomm Snapdragon 730G (via Redmi K30 rebrand, S-K)": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 730G (via Redmi K30 rebrand, S-K)"
+  },
+  "Qualcomm Snapdragon 732G": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 732G"
+  },
+  "Qualcomm Snapdragon 750G": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 750G"
+  },
+  "Qualcomm Snapdragon 765G": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 765G"
+  },
+  "Qualcomm Snapdragon 768G": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 768G"
+  },
+  "Qualcomm Snapdragon 778G": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 778G"
+  },
+  "Qualcomm Snapdragon 778G+": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 778G+"
+  },
+  "Qualcomm Snapdragon 780G": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 780G"
+  },
+  "Qualcomm Snapdragon 7s Gen 2": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 7s Gen 2"
+  },
+  "Qualcomm Snapdragon 7s Gen 3": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 7s Gen 3"
+  },
+  "Qualcomm Snapdragon 7s Gen 4": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 7s Gen 4"
+  },
+  "Qualcomm Snapdragon 8 Elite": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 8 Elite"
+  },
+  "Qualcomm Snapdragon 8 Elite Gen 5": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 8 Elite Gen 5"
+  },
+  "Qualcomm Snapdragon 8 Gen 1": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 8 Gen 1"
+  },
+  "Qualcomm Snapdragon 8 Gen 2": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 8 Gen 2"
+  },
+  "Qualcomm Snapdragon 8 Gen 2 (via Redmi K70 rebrand, S-K)": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 8 Gen 2 (via Redmi K70 rebrand, S-K)"
+  },
+  "Qualcomm Snapdragon 8 Gen 3": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 8 Gen 3"
+  },
+  "Qualcomm Snapdragon 8+ Gen 1": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 8+ Gen 1"
+  },
+  "Qualcomm Snapdragon 800": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 800"
+  },
+  "Qualcomm Snapdragon 801": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 801"
+  },
+  "Qualcomm Snapdragon 808": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 808"
+  },
+  "Qualcomm Snapdragon 810": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 810"
+  },
+  "Qualcomm Snapdragon 820": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 820"
+  },
+  "Qualcomm Snapdragon 821": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 821"
+  },
+  "Qualcomm Snapdragon 835": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 835"
+  },
+  "Qualcomm Snapdragon 845": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 845"
+  },
+  "Qualcomm Snapdragon 855": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 855"
+  },
+  "Qualcomm Snapdragon 855+": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 855+"
+  },
+  "Qualcomm Snapdragon 865": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 865"
+  },
+  "Qualcomm Snapdragon 870": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 870"
+  },
+  "Qualcomm Snapdragon 870 — China variant, distinct from India T2": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 870 — China variant, distinct from India T2"
+  },
+  "Qualcomm Snapdragon 888": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 888"
+  },
+  "Qualcomm Snapdragon 888+": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 888+"
+  },
+  "Qualcomm Snapdragon 8s Gen 3": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 8s Gen 3"
+  },
+  "Qualcomm Snapdragon 8s Gen 4": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 8s Gen 4"
+  },
+  "Qualcomm Snapdragon S3": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon S3"
+  },
+  "Qualcomm Snapdragon S4 Pro": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon S4 Pro"
+  },
+  "SC9863A": {
+   "vendor": "Unisoc",
+   "chip": "SC9863A"
+  },
+  "Samsung Exynos 1080": {
+   "vendor": "Samsung",
+   "chip": "Exynos 1080"
+  },
+  "Samsung Exynos 980": {
+   "vendor": "Samsung",
+   "chip": "Exynos 980"
+  },
+  "Samsung Exynos 980 (series) — name only verified in lists; chipset not re-verified in this pass for both, treat as partial": {
+   "vendor": "Samsung",
+   "chip": "Exynos 980 (series) — name only verified in lists; chipset not re-verified in this pass for both, treat as partial"
+  },
+  "Snapdragon 210": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 210"
+  },
+  "Snapdragon 4 Gen 2": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 4 Gen 2"
+  },
+  "Snapdragon 4 Gen 5": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 4 Gen 5"
+  },
+  "Snapdragon 410": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 410"
+  },
+  "Snapdragon 415 (MSM8929)": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 415 (MSM8929)"
+  },
+  "Snapdragon 425": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 425"
+  },
+  "Snapdragon 425 (MSM8917)": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 425 (MSM8917)"
+  },
+  "Snapdragon 430": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 430"
+  },
+  "Snapdragon 435": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 435"
+  },
+  "Snapdragon 439": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 439"
+  },
+  "Snapdragon 450": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 450"
+  },
+  "Snapdragon 460": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 460"
+  },
+  "Snapdragon 480": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 480"
+  },
+  "Snapdragon 6 Gen 1": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 6 Gen 1"
+  },
+  "Snapdragon 6 Gen 3": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 6 Gen 3"
+  },
+  "Snapdragon 6 Gen 4": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 6 Gen 4"
+  },
+  "Snapdragon 615": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 615"
+  },
+  "Snapdragon 615 / Exynos 5430 Octa (variants)": {
+   "vendor": "Qualcomm / Samsung",
+   "chip": "Snapdragon 615 / Exynos 5430 Octa (variants)"
+  },
+  "Snapdragon 616": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 616"
+  },
+  "Snapdragon 617": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 617"
+  },
+  "Snapdragon 625": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 625"
+  },
+  "Snapdragon 626": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 626"
+  },
+  "Snapdragon 652": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 652"
+  },
+  "Snapdragon 653": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 653"
+  },
+  "Snapdragon 660": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 660"
+  },
+  "Snapdragon 662": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 662"
+  },
+  "Snapdragon 665": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 665"
+  },
+  "Snapdragon 670": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 670"
+  },
+  "Snapdragon 675": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 675"
+  },
+  "Snapdragon 680": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 680"
+  },
+  "Snapdragon 680 4G": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 680 4G"
+  },
+  "Snapdragon 685": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 685"
+  },
+  "Snapdragon 685 4G": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 685 4G"
+  },
+  "Snapdragon 690": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 690"
+  },
+  "Snapdragon 695": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 695"
+  },
+  "Snapdragon 695 5G": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 695 5G"
+  },
+  "Snapdragon 6s 4G Gen 1": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 6s 4G Gen 1"
+  },
+  "Snapdragon 6s Gen 3": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 6s Gen 3"
+  },
+  "Snapdragon 7 Gen 1": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 7 Gen 1"
+  },
+  "Snapdragon 7 Gen 1 AE": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 7 Gen 1 AE"
+  },
+  "Snapdragon 7 Gen 1 Accelerated Edition": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 7 Gen 1 Accelerated Edition"
+  },
+  "Snapdragon 7 Gen 3": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 7 Gen 3"
+  },
+  "Snapdragon 7 Gen 4": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 7 Gen 4"
+  },
+  "Snapdragon 7+ Gen 2": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 7+ Gen 2"
+  },
+  "Snapdragon 7+ Gen 3": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 7+ Gen 3"
+  },
+  "Snapdragon 710": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 710"
+  },
+  "Snapdragon 712": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 712"
+  },
+  "Snapdragon 720G": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 720G"
+  },
+  "Snapdragon 730": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 730"
+  },
+  "Snapdragon 730G": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 730G"
+  },
+  "Snapdragon 732G": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 732G"
+  },
+  "Snapdragon 750G": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 750G"
+  },
+  "Snapdragon 765G": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 765G"
+  },
+  "Snapdragon 768G": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 768G"
+  },
+  "Snapdragon 778G": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 778G"
+  },
+  "Snapdragon 778G 4G": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 778G 4G"
+  },
+  "Snapdragon 778G 5G": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 778G 5G"
+  },
+  "Snapdragon 778G+": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 778G+"
+  },
+  "Snapdragon 782G": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 782G"
+  },
+  "Snapdragon 7s Gen 2": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 7s Gen 2"
+  },
+  "Snapdragon 7s Gen 3": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 7s Gen 3"
+  },
+  "Snapdragon 7s Gen 4": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 7s Gen 4"
+  },
+  "Snapdragon 8 Elite": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 8 Elite"
+  },
+  "Snapdragon 8 Elite Gen 5": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 8 Elite Gen 5"
+  },
+  "Snapdragon 8 Elite Gen 5 / Exynos 2600 (variants)": {
+   "vendor": "Qualcomm / Samsung",
+   "chip": "Snapdragon 8 Elite Gen 5 / Exynos 2600 (variants)"
+  },
+  "Snapdragon 8 Elite for Galaxy": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 8 Elite for Galaxy"
+  },
+  "Snapdragon 8 Gen 1": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 8 Gen 1"
+  },
+  "Snapdragon 8 Gen 2": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 8 Gen 2"
+  },
+  "Snapdragon 8 Gen 2 for Galaxy": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 8 Gen 2 for Galaxy"
+  },
+  "Snapdragon 8 Gen 3": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 8 Gen 3"
+  },
+  "Snapdragon 8 Gen 3 for Galaxy": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 8 Gen 3 for Galaxy"
+  },
+  "Snapdragon 8 Gen 3 for Galaxy (global)": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 8 Gen 3 for Galaxy (global)"
+  },
+  "Snapdragon 8 Gen 5": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 8 Gen 5"
+  },
+  "Snapdragon 8+ Gen 1": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 8+ Gen 1"
+  },
+  "Snapdragon 8+ Gen 2": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 8+ Gen 2"
+  },
+  "Snapdragon 805": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 805"
+  },
+  "Snapdragon 855": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 855"
+  },
+  "Snapdragon 855+": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 855+"
+  },
+  "Snapdragon 865": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 865"
+  },
+  "Snapdragon 865+": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 865+"
+  },
+  "Snapdragon 870": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 870"
+  },
+  "Snapdragon 888": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 888"
+  },
+  "Snapdragon 888 / Exynos 2100 (region-dependent)": {
+   "vendor": "Qualcomm / Samsung",
+   "chip": "Snapdragon 888 / Exynos 2100 (region-dependent)"
+  },
+  "Snapdragon 888 4G": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 888 4G"
+  },
+  "Snapdragon 888+": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 888+"
+  },
+  "Snapdragon 8s Gen 3": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 8s Gen 3"
+  },
+  "Snapdragon 8s Gen 4": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 8s Gen 4"
+  },
+  "Spreadtrum": {
+   "vendor": "Spreadtrum",
+   "chip": "Spreadtrum"
+  },
+  "Spreadtrum SC7727S": {
+   "vendor": "Spreadtrum",
+   "chip": "Spreadtrum SC7727S"
+  },
+  "Spreadtrum SC7731": {
+   "vendor": "Spreadtrum",
+   "chip": "Spreadtrum SC7731"
+  },
+  "Spreadtrum SC8830": {
+   "vendor": "Spreadtrum",
+   "chip": "Spreadtrum SC8830"
+  },
+  "Spreadtrum SC9830": {
+   "vendor": "Spreadtrum",
+   "chip": "Spreadtrum SC9830"
+  },
+  "Spreadtrum SC9830 / Marvell PXA1908 (J110L)": {
+   "vendor": "Spreadtrum / Marvell",
+   "chip": "Spreadtrum SC9830 / Marvell PXA1908 (J110L)"
+  },
+  "Spreadtrum SC9830A": {
+   "vendor": "Spreadtrum",
+   "chip": "Spreadtrum SC9830A"
+  },
+  "Tensor G2": {
+   "vendor": "Google",
+   "chip": "Tensor G2"
+  },
+  "Tensor G3": {
+   "vendor": "Google",
+   "chip": "Tensor G3"
+  },
+  "Tensor G4": {
+   "vendor": "Google",
+   "chip": "Tensor G4"
+  },
+  "Tensor G5": {
+   "vendor": "Google",
+   "chip": "Tensor G5"
+  },
+  "Tensor G6": {
+   "vendor": "Google",
+   "chip": "Tensor G6"
+  },
+  "Unisoc": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc"
+  },
+  "Unisoc SC7731E": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc SC7731E"
+  },
+  "Unisoc SC9832E": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc SC9832E"
+  },
+  "Unisoc SC9863A": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc SC9863A"
+  },
+  "Unisoc SC9863A / SC9863A1 — see Conflict 1": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc SC9863A / SC9863A1 — see Conflict 1"
+  },
+  "Unisoc SC9863A1": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc SC9863A1"
+  },
+  "Unisoc T603": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc T603"
+  },
+  "Unisoc T606": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc T606"
+  },
+  "Unisoc T606 — single-source, see Conflict 5": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc T606 — single-source, see Conflict 5"
+  },
+  "Unisoc T610": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc T610"
+  },
+  "Unisoc T612": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc T612"
+  },
+  "Unisoc T615": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc T615"
+  },
+  "Unisoc T616": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc T616"
+  },
+  "Unisoc T620": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc T620"
+  },
+  "Unisoc T7100": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc T7100"
+  },
+  "Unisoc T7200": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc T7200"
+  },
+  "Unisoc T7250": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc T7250"
+  },
+  "Unisoc T7280": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc T7280"
+  },
+  "Unisoc T7300": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc T7300"
+  },
+  "Unisoc T760": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc T760"
+  },
+  "Unisoc T820": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc T820"
+  },
+  "Unisoc T8200 (as reported; unusual designation, treat as reported-not-confirmed)": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc T8200 (as reported; unusual designation, treat as reported-not-confirmed)"
+  },
+  "Unisoc T8300": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc T8300"
+  },
+  "Unisoc T9100": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc T9100"
+  },
+  "Unisoc Tiger T610": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc Tiger T610"
+  },
+  "Unisoc Tiger T612": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc Tiger T612"
+  },
+  "Unisoc Tiger T616": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc Tiger T616"
+  },
+  "Unisoc Tiger T7250": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc Tiger T7250"
+  },
+  "Xiaomi Surge S1": {
+   "vendor": "Xiaomi",
+   "chip": "Xiaomi Surge S1"
+  },
+  "Exynos 2100 / Snapdragon 888": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 2100 / Snapdragon 888 (variants)"
+  },
+  "Exynos 2200 (intl.) / Snapdragon 8 Gen 1": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 2200 (intl.) / Snapdragon 8 Gen 1 (USA)"
+  },
+  "Exynos 2200 / Snapdragon 8 Gen 1": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 2200 / Snapdragon 8 Gen 1 (variants)"
+  },
+  "Exynos 2400 (intl.) / Snapdragon 8 Gen 3": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 2400 (intl.) / Snapdragon 8 Gen 3 (US/CN)"
+  },
+  "Exynos 4 Dual / TI OMAP4430 / Snapdragon S3": {
+   "vendor": "Samsung / Texas Instruments / Qualcomm",
+   "chip": "Exynos 4 Dual / TI OMAP4430 / Snapdragon S3 (variants)"
+  },
+  "Exynos 4 Quad / Snapdragon S4 / Snapdragon 400": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 4 Quad / Snapdragon S4 / Snapdragon 400 (variants)"
+  },
+  "Exynos 5 Octa 5420 / Snapdragon 800": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 5 Octa 5420 / Snapdragon 800 (variants)"
+  },
+  "Exynos 5433 / Snapdragon 805": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 5433 / Snapdragon 805 (variants)"
+  },
+  "Exynos 8890 / Snapdragon 820": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 8890 / Snapdragon 820 (variants)"
+  },
+  "Exynos 8895 / Snapdragon 835": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 8895 / Snapdragon 835 (variants)"
+  },
+  "Exynos 980 / Snapdragon 765G": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 980 / Snapdragon 765G (variants)"
+  },
+  "Exynos 9810 / Snapdragon 845": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 9810 / Snapdragon 845 (variants)"
+  },
+  "Exynos 9820 / Snapdragon 855": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 9820 / Snapdragon 855 (variants)"
+  },
+  "Exynos 9825 / Snapdragon 855": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 9825 / Snapdragon 855 (variants)"
+  },
+  "Exynos 990 / Snapdragon 865": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 990 / Snapdragon 865 (variants)"
+  },
+  "Exynos 990 / Snapdragon 865+": {
+   "vendor": "Samsung / Qualcomm",
+   "chip": "Exynos 990 / Snapdragon 865+ (variants)"
+  },
+  "HiSilicon 8000": {
+   "vendor": "HiSilicon",
+   "chip": "HiSilicon 8000 (aggregator claim, lower confidence)"
+  },
+  "Kirin 820": {
+   "vendor": "HiSilicon",
+   "chip": "Kirin 820 5G"
+  },
+  "SM6225 Snapdragon 685": {
+   "vendor": "Qualcomm",
+   "chip": "SM6225 Snapdragon 685"
+  },
+  "Snapdragon 4 Gen 1": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 4 Gen 1"
+  },
+  "Snapdragon 4s Gen 2": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 4s Gen 2"
+  },
+  "Snapdragon 600": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 600"
+  },
+  "Snapdragon 636": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 636"
+  },
+  "Snapdragon 650": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 650"
+  },
+  "Snapdragon 678": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 678"
+  },
+  "Snapdragon 6s Gen 4": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 6s Gen 4"
+  },
+  "Snapdragon 780G": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 780G"
+  },
+  "Snapdragon 800": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 800"
+  },
+  "Snapdragon 801": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 801"
+  },
+  "Snapdragon 808": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 808"
+  },
+  "Snapdragon 810": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 810"
+  },
+  "Snapdragon 820": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 820"
+  },
+  "Snapdragon 821": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 821"
+  },
+  "Snapdragon 835": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 835"
+  },
+  "Snapdragon 845": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 845"
+  },
+  "Snapdragon S3": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon S3"
+  },
+  "Snapdragon S4 Pro": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon S4 Pro"
+  },
+  "Exynos 1080": {
+   "vendor": "Samsung",
+   "chip": "Exynos 1080"
+  },
+  "Exynos 980 (series)": {
+   "vendor": "Samsung",
+   "chip": "Exynos 980 (series) — name only verified in lists; chipset not re-verified in this pass for both, treat as partial"
+  },
+  "Snapdragon 415": {
+   "vendor": "Qualcomm",
+   "chip": "Snapdragon 415 (MSM8929)"
+  },
+  "Snapdragon 615 / Exynos 5430 Octa": {
+   "vendor": "Qualcomm / Samsung",
+   "chip": "Snapdragon 615 / Exynos 5430 Octa (variants)"
+  },
+  "Snapdragon 8 Elite Gen 5 / Exynos 2600": {
+   "vendor": "Qualcomm / Samsung",
+   "chip": "Snapdragon 8 Elite Gen 5 / Exynos 2600 (variants)"
+  },
+  "Snapdragon 888 / Exynos 2100": {
+   "vendor": "Qualcomm / Samsung",
+   "chip": "Snapdragon 888 / Exynos 2100 (region-dependent)"
+  },
+  "Spreadtrum SC9830 / Marvell PXA1908": {
+   "vendor": "Spreadtrum / Marvell",
+   "chip": "Spreadtrum SC9830 / Marvell PXA1908 (J110L)"
+  },
+  "Unisoc SC9863A / SC9863A1": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc SC9863A / SC9863A1 — see Conflict 1"
+  },
+  "Unisoc T8200": {
+   "vendor": "Unisoc",
+   "chip": "Unisoc T8200 (as reported; unusual designation, treat as reported-not-confirmed)"
+  }
+ },
+ "unverified": [
+  "Helio A22 (MT6761, 2 GB) / Helio A25 (MT6762D, 3–4 GB)",
+  "Helio A22 (MT6761, 2 GB) / Helio P22 (MT6762, 4 GB)",
+  "Helio G25 (MT6762G) / Helio A22 (MT6761)",
+  "Helio G37 (MT6765V/CB, X6816) / Unisoc T610 (X6816C)",
+  "Helio G99+",
+  "Helio P35 / Kirin 710A (variants)",
+  "MediaTek Dimensity 1300 (China) / 6020 (India variant) — variant split",
+  "MediaTek Helio P22 (Helio A22 in African version)",
+  "MediaTek MT6580 (1 GB ver.) / Helio A22 (2 GB ver.) — see conflict",
+  "MediaTek MT6737M / MT6580M",
+  "Snapdragon 8 Gen 1 (China: Dimensity 9000, per W-O text)",
+  "Snapdragon 8 Gen 1 or Dimensity 9000 by region/variant",
+  "Unisoc SC9863A (version 1) / MediaTek Helio A22 (version 2) — dual-chipset model, per GSMArena",
+  "Unisoc T606 (variant-reported; Helio G25 also reported)",
+  "Unknown",
+  "unknown"
+ ]
+}
